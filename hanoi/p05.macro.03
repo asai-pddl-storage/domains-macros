@@ -1,0 +1,4 @@
+(move d5 peg1 peg3)
+(move d1 d2 peg1)
+(move d2 d3 d5)
+(move d1 peg1 d2)

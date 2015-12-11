@@ -1,0 +1,8 @@
+(depart f32 p4)
+(up f32 f33)
+(depart f33 p16)
+(up f33 f34)
+(board f34 p17)
+(depart f34 p12)
+(down f34 f0)
+(depart f0 p17)

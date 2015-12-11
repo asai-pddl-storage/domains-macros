@@ -1,0 +1,6 @@
+(unstack a j)
+(stack a f)
+(unstack j h)
+(put-down j)
+(unstack h m)
+(put-down h)

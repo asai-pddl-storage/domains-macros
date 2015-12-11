@@ -1,0 +1,7 @@
+(fe1-feedmsi-letter sheet5)
+(hw1-leftentrytotopleftexit-letter sheet5)
+(uc1-inverttoime-letter sheet5 back front)
+(uime-simplex-letter sheet5 front image-5)
+(uc1-fromime-letter sheet5)
+(hw1-toprightentrytorightexit-letter sheet5)
+(sys-stack-letter sheet5 sheet4)

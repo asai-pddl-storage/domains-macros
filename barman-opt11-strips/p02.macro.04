@@ -1,0 +1,5 @@
+(shake cocktail3 ingredient1 ingredient2 shaker1 left right)
+(pour-shaker-to-shot cocktail3 shot3 left shaker1 l2 l1)
+(empty-shaker left shaker1 cocktail3 l1 l0)
+(clean-shaker left right shaker1)
+(leave left shaker1)

@@ -1,0 +1,3 @@
+(initialize sp1)
+(associate sp1 gp sp1-gp)
+(initialize gp)

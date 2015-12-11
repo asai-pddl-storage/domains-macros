@@ -1,0 +1,5 @@
+(lc1-fmove-letter sheet4)
+(lc2-divert-letter sheet2 back front)
+(lre-simplex-letter sheet2 front image-2)
+(lc2-mergeinvert-letter sheet2)
+(om-lowerout-letter sheet2)

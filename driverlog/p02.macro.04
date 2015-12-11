@@ -1,0 +1,3 @@
+(unload-truck package1 truck2 s0)
+(disembark-truck driver1 truck1 s2)
+(walk driver1 s2 p2-1)

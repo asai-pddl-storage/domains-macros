@@ -1,0 +1,2 @@
+(do-immersion-varnish p5 immersion-varnisher0 blue smooth)
+(do-immersion-varnish p0 immersion-varnisher0 white smooth)

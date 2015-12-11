@@ -1,0 +1,7 @@
+(load-truck obj33 tru3 pos3)
+(load-truck obj32 tru3 pos3)
+(load-truck obj23 tru2 pos2)
+(load-truck obj21 tru2 pos2)
+(load-truck obj13 tru1 pos1)
+(load-truck obj12 tru1 pos1)
+(load-truck obj11 tru1 pos1)

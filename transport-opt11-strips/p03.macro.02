@@ -1,0 +1,2 @@
+(pick-up truck-2 city-1-loc-2 package-2 capacity-0 capacity-1)
+(drive truck-2 city-1-loc-2 city-1-loc-3)

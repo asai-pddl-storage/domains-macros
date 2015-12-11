@@ -1,0 +1,5 @@
+(put-left pr2 x2 y3 xrel1 x3 yrel-1 y2 object0 x2)
+(get-down pr2 x2 y3 xrel1 x3 yrel-1 y2 object2 y3)
+(gripper-down pr2 x2 y3 xrel1 x3 yrel-1 yrel0 y2 y3)
+(put-up pr2 x2 y3 xrel1 x3 yrel0 y3 object2 y2)
+(get-left pr2 x2 y3 xrel1 x3 yrel0 y3 object3 x2)

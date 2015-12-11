@@ -1,0 +1,4 @@
+(board f9 p1)
+(down f9 f7)
+(depart f7 p6)
+(depart f7 p2)

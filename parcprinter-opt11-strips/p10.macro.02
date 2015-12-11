@@ -1,0 +1,6 @@
+(uc1-inverttoime-letter sheet3 back front)
+(uime-simplex-letter sheet3 front image-3)
+(uc1-fromime-letter sheet3)
+(hw1-toprightentrytorightexit-letter sheet3)
+(fe1-feedmsi-letter sheet4)
+(hw1-leftentrytobottomleftexit-letter sheet4)

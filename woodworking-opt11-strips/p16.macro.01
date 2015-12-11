@@ -1,0 +1,4 @@
+(do-grind p3 grinder0 smooth natural untreated untreated)
+(do-spray-varnish p7 spray-varnisher0 blue smooth)
+(do-spray-varnish p3 spray-varnisher0 black verysmooth)
+(do-saw-large b0 p6 saw0 cherry rough s6 s4 s5 s3)
