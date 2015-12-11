@@ -1,0 +1,8 @@
+(push-end s23 a2 a3 b11 b13 gasoleo ta3-1-gasoleo)
+(push-end s13 a1 a3 b9 b4 oc1b ta3-1-oc1b)
+(pop-start s23 b9 a2 a3 b13 oc1b lco ta3-1-oc1b)
+(push-end s12 a1 a2 b7 b5 oc1b ta2-1-oc1b)
+(pop-end s23 a2 a3 b12 b2 gasoleo ta2-1-gasoleo)
+(pop-start s12 b12 a1 a2 b5 gasoleo rat-a ta2-1-gasoleo)
+(pop-end s12 a1 a2 b1 b5 lco ta1-1-lco)
+(push-start s13 b1 a1 a3 b8 gasoleo lco ta1-1-gasoleo)

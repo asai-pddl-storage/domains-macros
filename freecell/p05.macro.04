@@ -1,0 +1,6 @@
+(sendtohome club6 diamond6 club n6 club5 n5)
+(sendtohome diamond6 heart3 diamond n6 diamond5 n5)
+(sendtohome-b heart3 heart n3 heart2 n2 n4 n5)
+(homefromfreecell heart4 heart n4 heart3 n3 n0 n1)
+(homefromfreecell heart5 heart n5 heart4 n4 n1 n2)
+(homefromfreecell heart6 heart n6 heart5 n5 n2 n3)

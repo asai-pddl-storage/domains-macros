@@ -1,0 +1,4 @@
+(unpark pr2 xrel0 yrel0)
+(finish-object object0 x2 y2)
+(finish-object object2 x3 y2)
+(base-right pr2 x0 x1 y0)

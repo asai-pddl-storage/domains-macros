@@ -1,0 +1,6 @@
+(choose pcna l4 l3)
+(initialize pcna)
+(choose sp1 l5 l4)
+(initialize sp1)
+(associate e2f13-dp12 ge2 e2f13-dp12-ge2)
+(synthesize e2f13-dp12-ge2 c-myc)

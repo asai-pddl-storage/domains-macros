@@ -1,0 +1,6 @@
+(exec_file-sherpa-greg-greg_uid-everyone-proc_1-s_iexplore )
+(dms_begin_session-dmss2 )
+(dms_client_find-sherpa-proc_1-iexplorer-greg-dmss2 )
+(dms_connect-proc_0-everest-nes-dmss2 )
+(dms_route-sherpa-everest-dmss2 )
+(dms_enter_password-greg-sherpa-greg_dms_pwd-dmss2 )

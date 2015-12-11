@@ -1,0 +1,5 @@
+(do-saw-medium b1 p7 saw0 mahogany smooth s2 s1 s0)
+(load-highspeed-saw b2 highspeed-saw0)
+(do-glaze p7 glazer0 mauve)
+(cut-board-large b2 p0 highspeed-saw0 pine smooth s8 s6 s7 s5)
+(cut-board-small b2 p4 highspeed-saw0 pine smooth s5 s4)

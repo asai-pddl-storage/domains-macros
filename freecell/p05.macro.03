@@ -1,0 +1,6 @@
+(sendtohome-b diamonda diamond n1 diamond0 n0 n0 n1)
+(sendtohome-b diamond2 diamond n2 diamonda n1 n1 n2)
+(sendtohome diamond3 diamond5 diamond n3 diamond2 n2)
+(sendtohome-b diamond4 diamond n4 diamond3 n3 n2 n3)
+(sendtohome diamond5 club6 diamond n5 diamond4 n4)
+(sendtohome-b club5 club n5 club4 n4 n3 n4)

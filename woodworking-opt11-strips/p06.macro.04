@@ -1,0 +1,3 @@
+(do-plane p3 planer0 verysmooth blue varnished)
+(do-grind p3 grinder0 smooth natural untreated untreated)
+(do-immersion-varnish p3 immersion-varnisher0 red verysmooth)

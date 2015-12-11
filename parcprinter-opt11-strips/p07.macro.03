@@ -1,0 +1,8 @@
+(colorprinter-simplex-letter sheet3 front image-3)
+(colorcontainer-fromime-letter sheet3)
+(down-movetop-letter sheet4)
+(down-movetop-letter sheet1)
+(htmovercolor-move-letter sheet1)
+(colorcontainer-fromime-letter sheet2)
+(htmovercolor-move-letter sheet4)
+(up-moveup-letter sheet2)

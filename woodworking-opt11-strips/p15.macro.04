@@ -1,0 +1,4 @@
+(do-immersion-varnish p5 immersion-varnisher0 black verysmooth)
+(do-spray-varnish p4 spray-varnisher0 white smooth)
+(do-spray-varnish p1 spray-varnisher0 green smooth)
+(do-spray-varnish p3 spray-varnisher0 black verysmooth)

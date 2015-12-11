@@ -1,0 +1,6 @@
+(lc1-merge-letter sheet1)
+(lc2-fmove-letter sheet1)
+(om-lowerout-letter sheet1)
+(sys-stack-letter sheet1 dummy-sheet)
+(sys-stack-letter sheet2 sheet1)
+(lc1-divert-letter sheet3 back front)

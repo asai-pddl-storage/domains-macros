@@ -1,0 +1,5 @@
+(drive t0 l0 l6 level132 level10 level142)
+(load p6 t0 l6)
+(unload p4 t0 l6)
+(load p3 t0 l6)
+(drive t0 l6 l3 level108 level24 level132)

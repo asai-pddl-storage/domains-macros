@@ -1,0 +1,5 @@
+(do-plane p6 planer0 rough white glazed)
+(do-spray-varnish p6 spray-varnisher0 black smooth)
+(do-saw-small b1 p2 saw0 mahogany smooth s2 s1)
+(do-grind p2 grinder0 smooth natural untreated untreated)
+(do-spray-varnish p2 spray-varnisher0 mauve verysmooth)

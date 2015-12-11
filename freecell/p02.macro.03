@@ -1,0 +1,3 @@
+(homefromfreecell heart2 heart n2 hearta n1 n1 n2)
+(sendtohome heart3 diamond2 heart n3 heart2 n2)
+(sendtohome-b club3 club n3 club2 n2 n2 n3)

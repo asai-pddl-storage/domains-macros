@@ -1,0 +1,3 @@
+(do-immersion-varnish p1 immersion-varnisher0 black smooth)
+(do-glaze p2 glazer0 green)
+(do-glaze p3 glazer0 blue)

@@ -1,0 +1,6 @@
+(drive t0 l9 l3 level136 level10 level146)
+(load p8 t0 l3)
+(load p0 t0 l3)
+(drive t0 l3 l0 level134 level2 level136)
+(load p5 t0 l0)
+(drive t0 l0 l2 level121 level13 level134)

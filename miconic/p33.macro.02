@@ -1,0 +1,4 @@
+(depart f2 p1)
+(up f2 f4)
+(depart f4 p3)
+(up f4 f6)

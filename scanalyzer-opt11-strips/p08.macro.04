@@ -1,0 +1,2 @@
+(analyze-2 seg-in-6 seg-out-6 car-in-6 car-out-6)
+(analyze-2 seg-in-6 seg-out-6 car-out-6 car-in-6)

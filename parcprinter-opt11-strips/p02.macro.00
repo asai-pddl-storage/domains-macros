@@ -1,0 +1,4 @@
+(initialize )
+(colorfeeder-feed-letter sheet2)
+(blackfeeder-feed-letter sheet1)
+(down-movebottom-letter sheet2)

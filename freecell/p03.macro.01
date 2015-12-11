@@ -1,0 +1,4 @@
+(sendtohome diamond3 club2 diamond n3 diamond2 n2)
+(sendtohome-b club2 club n2 cluba n1 n0 n1)
+(sendtonewcol heart3 spadea n1 n0)
+(sendtohome spadea hearta spade n1 spade0 n0)

@@ -1,0 +1,4 @@
+(do-grind p2 grinder0 smooth natural untreated untreated)
+(do-glaze p2 glazer0 blue)
+(do-plane p1 planer0 rough natural untreated)
+(do-plane p3 planer0 rough natural untreated)

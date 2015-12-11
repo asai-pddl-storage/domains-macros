@@ -1,0 +1,8 @@
+(base-left pr2 x1 x0 y5)
+(base-up pr2 x0 y5 y4)
+(base-up pr2 x0 y4 y3)
+(base-up pr2 x0 y3 y2)
+(base-right pr2 x0 x1 y2)
+(base-right pr2 x1 x2 y2)
+(park pr2)
+(get-right pr2 x2 y2 xrel0 x2 yrel0 y2 object1 x3)

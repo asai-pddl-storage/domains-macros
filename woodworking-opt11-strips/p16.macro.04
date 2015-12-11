@@ -1,0 +1,5 @@
+(do-immersion-varnish p8 immersion-varnisher0 white smooth)
+(do-immersion-varnish p0 immersion-varnisher0 green smooth)
+(do-plane p2 planer0 rough natural untreated)
+(do-grind p2 grinder0 smooth natural untreated untreated)
+(do-spray-varnish p2 spray-varnisher0 black verysmooth)
