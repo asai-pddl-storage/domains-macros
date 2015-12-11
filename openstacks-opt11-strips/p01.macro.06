@@ -1,0 +1,3 @@
+(ship-order-o6 n0 n1)
+(ship-order-o7 n1 n2)
+(start-order o9 n2 n1)

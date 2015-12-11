@@ -1,0 +1,4 @@
+(initialize )
+(colorfeeder-feed-letter sheet4)
+(down-movebottom-letter sheet4)
+(colorcontainer-toime-letter sheet4)

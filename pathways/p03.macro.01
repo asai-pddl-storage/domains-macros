@@ -1,0 +1,2 @@
+(choose gp l2 l1)
+(initialize gp)

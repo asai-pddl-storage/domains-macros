@@ -1,0 +1,4 @@
+(drop ball6 roomb left)
+(drop ball7 roomb right)
+(move roomb rooma)
+(pick ball8 rooma left)

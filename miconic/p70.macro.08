@@ -1,0 +1,5 @@
+(down f10 f7)
+(depart f7 p3)
+(up f7 f27)
+(depart f27 p13)
+(depart f27 p0)

@@ -1,0 +1,5 @@
+(move player-01 pos-5-4 pos-5-3 dir-up)
+(move player-01 pos-5-3 pos-5-2 dir-up)
+(move player-01 pos-5-2 pos-4-2 dir-left)
+(move player-01 pos-4-2 pos-3-2 dir-left)
+(move player-01 pos-3-2 pos-2-2 dir-left)

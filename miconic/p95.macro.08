@@ -1,0 +1,7 @@
+(up f25 f35)
+(depart f35 p10)
+(up f35 f36)
+(depart f36 p4)
+(up f36 f37)
+(depart f37 p5)
+(depart f37 p3)

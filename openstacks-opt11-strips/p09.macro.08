@@ -1,0 +1,6 @@
+(make-product-p2 )
+(make-product-p13 )
+(ship-order-o12 n0 n1)
+(ship-order-o11 n1 n2)
+(ship-order-o5 n2 n3)
+(ship-order-o3 n3 n4)

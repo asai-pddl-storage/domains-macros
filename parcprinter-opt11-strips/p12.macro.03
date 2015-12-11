@@ -1,0 +1,4 @@
+(lre-simplex-letter sheet2 front image-2)
+(lc2-mergeinvert-letter sheet2)
+(om-lowerout-letter sheet2)
+(lc2-divert-letter sheet4 back front)

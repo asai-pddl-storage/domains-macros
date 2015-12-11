@@ -1,0 +1,3 @@
+(move heart2 hearta club3)
+(sendtohome hearta club4 heart n1 heart0 n0)
+(sendtohome club2 diamond3 club n2 cluba n1)

@@ -1,0 +1,2 @@
+(do-immersion-varnish p2 immersion-varnisher0 blue verysmooth)
+(do-plane p3 planer0 verysmooth blue varnished)

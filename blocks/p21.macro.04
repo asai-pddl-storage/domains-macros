@@ -1,0 +1,4 @@
+(unstack g b)
+(stack g i)
+(unstack b a)
+(put-down b)

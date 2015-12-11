@@ -1,0 +1,2 @@
+(unload-truck obj11 tru1 apt1)
+(drive-truck tru1 apt1 pos1 cit1)

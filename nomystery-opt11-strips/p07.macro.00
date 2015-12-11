@@ -1,0 +1,4 @@
+(drive t0 l9 l3 level189 level10 level199)
+(load p8 t0 l3)
+(load p0 t0 l3)
+(drive t0 l3 l0 level187 level2 level189)

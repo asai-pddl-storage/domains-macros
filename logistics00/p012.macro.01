@@ -1,0 +1,4 @@
+(unload-truck obj33 tru3 apt3)
+(unload-truck obj32 tru3 apt3)
+(unload-truck obj31 tru3 apt3)
+(load-truck obj23 tru2 pos2)

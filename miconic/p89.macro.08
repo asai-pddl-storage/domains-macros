@@ -1,0 +1,6 @@
+(down f35 f22)
+(board f22 p7)
+(depart f22 p15)
+(down f22 f19)
+(depart f19 p8)
+(depart f19 p7)

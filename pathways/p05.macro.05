@@ -1,0 +1,3 @@
+(initialize p53)
+(synthesize p53 gadd45)
+(synthesize p53 p21)

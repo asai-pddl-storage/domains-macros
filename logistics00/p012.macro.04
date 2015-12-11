@@ -1,0 +1,4 @@
+(load-airplane obj33 apn1 apt3)
+(load-airplane obj32 apn1 apt3)
+(load-airplane obj31 apn1 apt3)
+(unload-airplane obj13 apn1 apt3)

@@ -1,0 +1,2 @@
+(do-spray-varnish p3 spray-varnisher0 black verysmooth)
+(do-spray-varnish p5 spray-varnisher0 black verysmooth)

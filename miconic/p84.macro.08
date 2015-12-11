@@ -1,0 +1,6 @@
+(down f31 f18)
+(depart f18 p5)
+(up f18 f27)
+(depart f27 p14)
+(up f27 f32)
+(depart f32 p2)

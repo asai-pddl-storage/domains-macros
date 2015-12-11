@@ -1,0 +1,3 @@
+(cut-board-small b1 p5 highspeed-saw0 pine rough s7 s6)
+(cut-board-large b1 p8 highspeed-saw0 pine rough s6 s4 s5 s3)
+(do-plane p8 planer0 rough natural untreated)

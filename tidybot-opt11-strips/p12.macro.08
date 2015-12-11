@@ -1,0 +1,3 @@
+(put-left pr2 x4 y3 xrel1 x5 yrel1 y4 object3 x4)
+(finish-object object2 x4 y3)
+(finish-object object3 x4 y4)

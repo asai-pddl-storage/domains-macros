@@ -1,0 +1,4 @@
+(unstack a l)
+(stack a c)
+(unstack l e)
+(stack l g)

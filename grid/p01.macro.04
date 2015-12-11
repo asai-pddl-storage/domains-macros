@@ -1,0 +1,2 @@
+(move node1-3 node2-3)
+(pickup-and-loose node2-3 key0 key3)

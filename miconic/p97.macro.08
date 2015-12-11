@@ -1,0 +1,7 @@
+(board f27 p14)
+(depart f27 p6)
+(up f27 f39)
+(board f39 p1)
+(down f39 f4)
+(depart f4 p14)
+(depart f4 p1)

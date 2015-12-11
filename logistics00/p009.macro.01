@@ -1,0 +1,2 @@
+(load-truck obj12 tru1 pos1)
+(drive-truck tru1 pos1 apt1 cit1)

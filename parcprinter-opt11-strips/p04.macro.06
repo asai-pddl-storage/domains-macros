@@ -1,0 +1,4 @@
+(htmovercolor-move-letter sheet1)
+(up-movetop-letter sheet1)
+(finisher1-stack-letter sheet1 dummy-sheet)
+(endcap-move-letter sheet2)

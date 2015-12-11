@@ -1,0 +1,3 @@
+(stack f e)
+(unstack i g)
+(stack i d)

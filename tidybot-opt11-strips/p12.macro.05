@@ -1,0 +1,4 @@
+(gripper-up pr2 x4 y3 xrel-1 x3 yrel1 yrel0 y4 y3)
+(put-down pr2 x4 y3 xrel-1 x3 yrel0 y3 object1 y4)
+(finish-object object1 x3 y4)
+(get-right pr2 x4 y3 xrel-1 x3 yrel0 y3 object0 x4)

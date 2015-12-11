@@ -1,0 +1,2 @@
+(analyze-4 seg-in-2a seg-in-2b seg-out-1a seg-out-1b car-in-2a car-in-2b car-out-1a car-out-1b)
+(analyze-4 seg-in-2a seg-in-2b seg-out-1a seg-out-1b car-in-2b car-out-1a car-out-1b car-in-2a)

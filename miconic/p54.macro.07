@@ -1,0 +1,4 @@
+(down f21 f8)
+(board f8 p8)
+(depart f8 p2)
+(up f8 f9)

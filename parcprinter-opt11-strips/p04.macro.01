@@ -1,0 +1,4 @@
+(colorprinter-simplex-letter sheet4 front image-4)
+(colorfeeder-feed-letter sheet3)
+(down-movebottom-letter sheet3)
+(colorcontainer-fromime-letter sheet4)
