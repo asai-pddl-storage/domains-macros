@@ -1,0 +1,6 @@
+(choose e2f13p1-dp12 l1 l0)
+(initialize e2f13p1-dp12)
+(choose e2f4-dp12p1 l2 l1)
+(initialize e2f4-dp12p1)
+(choose ge2 l3 l2)
+(initialize ge2)

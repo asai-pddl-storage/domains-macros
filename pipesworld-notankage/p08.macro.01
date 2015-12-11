@@ -1,0 +1,5 @@
+(push-unitarypipe s12 b0 a1 a2 b1 lco oc1b)
+(pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco)
+(pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a)
+(pop-unitarypipe s12 b9 a1 a2 b4 lco lco)
+(pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco)

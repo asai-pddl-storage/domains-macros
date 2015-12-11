@@ -1,0 +1,8 @@
+(do-glaze p1 glazer0 blue)
+(cut-board-medium b0 p5 highspeed-saw0 beech smooth s6 s5 s4)
+(do-immersion-varnish p5 immersion-varnisher0 blue smooth)
+(do-immersion-varnish p0 immersion-varnisher0 white smooth)
+(do-immersion-varnish p2 immersion-varnisher0 blue verysmooth)
+(do-plane p3 planer0 verysmooth blue varnished)
+(do-grind p3 grinder0 smooth natural untreated untreated)
+(do-immersion-varnish p3 immersion-varnisher0 red verysmooth)

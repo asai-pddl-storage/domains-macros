@@ -1,0 +1,3 @@
+(initialize pcaf)
+(associate pcaf p300 pcaf-p300)
+(dummy-action-1 )

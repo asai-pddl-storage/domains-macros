@@ -1,0 +1,7 @@
+(homefromfreecell c2 c n2 ca n1 n3 n4)
+(sendtofree s3 s2 n4 n3)
+(sendtohome-b s2 s n2 sa n1 n5 n6)
+(sendtohome-b h2 h n2 ha n1 n6 n7)
+(homefromfreecell s3 s n3 s2 n2 n3 n4)
+(sendtohome c3 h3 c n3 c2 n2)
+(sendtohome-b h3 h n3 h2 n2 n7 n8)

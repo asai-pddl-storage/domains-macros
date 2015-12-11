@@ -1,0 +1,4 @@
+(push-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b)
+(pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-1-lco)
+(pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco)
+(pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-3-lco ta2-1-oc1b)

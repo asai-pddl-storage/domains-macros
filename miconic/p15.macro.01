@@ -1,0 +1,5 @@
+(down f3 f0)
+(depart f0 p1)
+(depart f0 p0)
+(up f0 f4)
+(depart f4 p2)

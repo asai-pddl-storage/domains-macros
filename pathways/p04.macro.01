@@ -1,0 +1,8 @@
+(synthesize sp1-gp p107p1)
+(synthesize sp1-gp pol)
+(dummy-action-2 )
+(associate sp1 p107p1 sp1-p107p1)
+(dummy-action-4 )
+(associate sp1-p107p1 gp sp1-p107p1-gp)
+(dummy-action-1 )
+(dummy-action-3 )

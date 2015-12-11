@@ -1,0 +1,5 @@
+(sendtohome da sa d n1 d0 n0)
+(sendtohome-b ca c n1 c0 n0 n2 n3)
+(sendtohome-b sa s n1 s0 n0 n3 n4)
+(sendtofree h2 ha n4 n3)
+(sendtohome-b c2 c n2 ca n1 n4 n5)
