@@ -1,0 +1,5 @@
+(make-product-p3 )
+(ship-order-o5 n0 n1)
+(ship-order-o8 n1 n2)
+(start-order o6 n2 n1)
+(start-order o7 n1 n0)

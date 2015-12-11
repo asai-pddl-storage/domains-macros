@@ -1,0 +1,5 @@
+(drive t0 l7 l5 level227 level14 level241)
+(load p7 t0 l5)
+(load p5 t0 l5)
+(load p4 t0 l5)
+(drive t0 l5 l0 level206 level21 level227)

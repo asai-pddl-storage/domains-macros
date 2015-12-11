@@ -1,0 +1,3 @@
+(do-plane p5 planer0 rough white varnished)
+(do-saw-small b0 p4 saw0 teak rough s3 s2)
+(do-plane p4 planer0 rough natural untreated)

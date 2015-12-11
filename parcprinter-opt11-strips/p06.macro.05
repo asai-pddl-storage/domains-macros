@@ -1,0 +1,7 @@
+(up-movetop-letter sheet4)
+(finisher1-stack-letter sheet3 sheet2)
+(finisher1-stack-letter sheet4 sheet3)
+(colorcontainer-fromime-letter sheet5)
+(up-moveup-letter sheet5)
+(finisher1-stack-letter sheet5 sheet4)
+(finisher1-stack-letter sheet6 sheet5)

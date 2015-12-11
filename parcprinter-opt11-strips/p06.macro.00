@@ -1,0 +1,8 @@
+(initialize )
+(colorfeeder-feed-letter sheet1)
+(colorfeeder-feed-letter sheet6)
+(colorfeeder-feed-letter sheet2)
+(colorfeeder-feed-letter sheet3)
+(colorfeeder-feed-letter sheet5)
+(down-movebottom-letter sheet3)
+(down-movebottom-letter sheet5)

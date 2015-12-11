@@ -1,0 +1,4 @@
+(move node0-1 node0-0)
+(pickup node0-0 key0)
+(move node0-0 node0-1)
+(move node0-1 node1-1)

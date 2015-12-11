@@ -1,0 +1,7 @@
+(blackfeeder-feed-letter sheet1)
+(blackcontainer-toime-letter sheet1)
+(endcap-move-letter sheet4)
+(blackprinter-simplex-letter sheet1 front image-1)
+(up-moveup-letter sheet5)
+(htmoverblack-move-letter sheet4)
+(blackcontainer-fromime-letter sheet1)

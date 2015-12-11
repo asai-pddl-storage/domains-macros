@@ -1,0 +1,3 @@
+(do-spray-varnish p2 spray-varnisher0 mauve verysmooth)
+(do-spray-varnish p5 spray-varnisher0 natural smooth)
+(load-highspeed-saw b0 highspeed-saw0)

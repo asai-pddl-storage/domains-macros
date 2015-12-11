@@ -1,0 +1,6 @@
+(unstack i g)
+(stack i e)
+(unstack h f)
+(stack h d)
+(unstack f a)
+(stack f h)

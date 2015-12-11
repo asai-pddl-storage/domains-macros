@@ -1,0 +1,3 @@
+(associate sp1 p107 sp1-p107)
+(associate sp1-p107 gp sp1-p107-gp)
+(dummy-action-1 )

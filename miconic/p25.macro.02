@@ -1,0 +1,3 @@
+(board f7 p3)
+(down f7 f5)
+(board f5 p0)

@@ -1,0 +1,5 @@
+(depart f14 p3)
+(depart f14 p2)
+(down f14 f5)
+(depart f5 p9)
+(depart f5 p7)

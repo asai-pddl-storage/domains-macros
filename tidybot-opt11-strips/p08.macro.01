@@ -1,0 +1,6 @@
+(base-down pr2 x5 y0 y1)
+(base-down pr2 x5 y1 y2)
+(base-down pr2 x5 y2 y3)
+(base-down pr2 x5 y3 y4)
+(base-down pr2 x5 y4 y5)
+(base-left pr2 x5 x4 y5)

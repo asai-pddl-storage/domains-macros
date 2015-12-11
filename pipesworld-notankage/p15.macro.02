@@ -1,0 +1,4 @@
+(pop-start s12 b3 a1 a2 b12 rat-a rat-a)
+(pop-end s12 a1 a2 b7 b12)
+(pop-start s12 b0 a1 a2 b3 rat-a rat-a)
+(pop-end s12 a1 a2 b12 b3)

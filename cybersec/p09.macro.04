@@ -1,0 +1,5 @@
+(dms_connect-proc_0-everest-nes-dmss2 )
+(dms_route-sherpa-everest-dmss2 )
+(dms_enter_password-greg-sherpa-greg_dms_pwd-dmss2 )
+(auth_to_dms-everest-greg_dms_pwd-greg_uid-dmss2 )
+(dms_req_begin-dmss2-greg-sherpa )

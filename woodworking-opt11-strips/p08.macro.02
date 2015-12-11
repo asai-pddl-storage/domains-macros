@@ -1,0 +1,4 @@
+(cut-board-large b0 p4 highspeed-saw0 beech rough s7 s5 s6 s4)
+(do-plane p4 planer0 rough natural untreated)
+(cut-board-small b0 p1 highspeed-saw0 beech rough s7 s6)
+(cut-board-small b0 p3 highspeed-saw0 beech rough s7 s6)

@@ -1,0 +1,2 @@
+(drop rover0 rover0store)
+(navigate rover0 waypoint1 waypoint2)

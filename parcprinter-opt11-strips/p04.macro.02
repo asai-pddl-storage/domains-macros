@@ -1,0 +1,6 @@
+(up-moveup-letter sheet3)
+(blackfeeder-feed-letter sheet1)
+(blackfeeder-feed-letter sheet2)
+(blackcontainer-toime-letter sheet1)
+(blackcontainer-toime-letter sheet2)
+(blackprinter-simplex-letter sheet1 front image-1)

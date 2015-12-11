@@ -1,0 +1,5 @@
+(dms_req_begin-dmss2-greg-sherpa )
+(dms_request-dmss2-e_secret_doc-everest-greg_uid-admin_gid )
+(dms_send-dmss2-sherpa-proc_1-e_secret_doc )
+(relay_viewed_doc-e_secret_doc-bob-sherpa-proc_1-proc_0-fb_virus-yeti-proc_2-troj_master )
+(read_doc-bob-yeti-proc_2-e_secret_doc-bobs_office-secret_info )

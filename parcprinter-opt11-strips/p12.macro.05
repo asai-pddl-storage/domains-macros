@@ -1,0 +1,5 @@
+(lc1-merge-letter sheet3)
+(lc2-fmove-letter sheet3)
+(om-lowerout-letter sheet3)
+(sys-stack-letter sheet3 sheet2)
+(sys-stack-letter sheet4 sheet3)

@@ -1,0 +1,5 @@
+(move-up-fast fast0 n3 n6)
+(leave p1 fast0 n6 n3 n2)
+(board p1 slow1-0 n6 n0 n1)
+(leave p2 fast0 n6 n2 n1)
+(board p2 slow1-0 n6 n1 n2)

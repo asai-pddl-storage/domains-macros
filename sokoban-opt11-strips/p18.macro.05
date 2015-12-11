@@ -1,0 +1,7 @@
+(move player-01 pos-5-4 pos-4-4 dir-left)
+(move player-01 pos-4-4 pos-3-4 dir-left)
+(move player-01 pos-3-4 pos-2-4 dir-left)
+(move player-01 pos-2-4 pos-2-3 dir-up)
+(move player-01 pos-2-3 pos-2-2 dir-up)
+(move player-01 pos-2-2 pos-3-2 dir-right)
+(push-to-goal player-01 stone-01 pos-3-2 pos-3-3 pos-3-4 dir-down)

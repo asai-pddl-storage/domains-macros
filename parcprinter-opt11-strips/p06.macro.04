@@ -1,0 +1,7 @@
+(up-moveup-letter sheet6)
+(finisher1-stack-letter sheet1 dummy-sheet)
+(htmovercolor-move-letter sheet4)
+(colorcontainer-fromime-letter sheet3)
+(up-moveup-letter sheet2)
+(finisher1-stack-letter sheet2 sheet1)
+(up-moveup-letter sheet3)

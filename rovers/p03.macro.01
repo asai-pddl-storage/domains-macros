@@ -1,0 +1,2 @@
+(take_image rover1 waypoint0 objective0 camera1 colour)
+(sample_rock rover1 rover1store waypoint0)

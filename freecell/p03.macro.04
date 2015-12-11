@@ -1,0 +1,3 @@
+(sendtohome heart2 spade4 heart n2 hearta n1)
+(sendtohome-b club4 club n4 club3 n3 n1 n2)
+(sendtohome-b spade4 spade n4 spade3 n3 n2 n3)

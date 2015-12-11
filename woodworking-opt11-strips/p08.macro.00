@@ -1,0 +1,5 @@
+(load-highspeed-saw b0 highspeed-saw0)
+(cut-board-large b0 p6 highspeed-saw0 beech rough s10 s8 s9 s7)
+(do-plane p6 planer0 rough natural untreated)
+(do-grind p6 grinder0 smooth natural untreated untreated)
+(cut-board-medium b0 p0 highspeed-saw0 beech rough s7 s6 s5)

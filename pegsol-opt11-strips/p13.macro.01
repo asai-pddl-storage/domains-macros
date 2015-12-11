@@ -1,0 +1,4 @@
+(end-move pos-3-2)
+(jump-new-move pos-0-4 pos-0-3 pos-0-2)
+(jump-continue-move pos-0-2 pos-1-2 pos-2-2)
+(jump-continue-move pos-2-2 pos-3-2 pos-4-2)
