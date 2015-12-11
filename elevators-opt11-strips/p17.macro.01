@@ -1,0 +1,4 @@
+(move-up-slow slow0-0 n4 n5)
+(leave p4 slow0-0 n5 n2 n1)
+(move-down-slow slow0-0 n5 n0)
+(board p5 slow0-0 n0 n1 n2)

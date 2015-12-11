@@ -1,0 +1,2 @@
+(load-airplane obj21 apn1 apt2)
+(unload-airplane obj11 apn1 apt2)

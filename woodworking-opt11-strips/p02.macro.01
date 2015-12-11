@@ -1,0 +1,2 @@
+(load-highspeed-saw b0 highspeed-saw0)
+(cut-board-medium b0 p0 highspeed-saw0 oak rough s10 s9 s8)

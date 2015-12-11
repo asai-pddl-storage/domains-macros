@@ -1,0 +1,5 @@
+(depart f18 p8)
+(up f18 f19)
+(depart f19 p6)
+(depart f19 p5)
+(depart f19 p1)

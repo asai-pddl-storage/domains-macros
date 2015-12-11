@@ -1,0 +1,4 @@
+(drive t0 l5 l0 level206 level21 level227)
+(load p2 t0 l0)
+(drive t0 l0 l6 level196 level10 level206)
+(load p6 t0 l6)

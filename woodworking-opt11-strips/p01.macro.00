@@ -1,0 +1,2 @@
+(do-plane p2 planer0 rough black colourfragments)
+(do-spray-varnish p2 spray-varnisher0 green smooth)

@@ -1,0 +1,3 @@
+(push-start s12 b7 a1 a2 b12 lco rat-a)
+(push-end s12 a1 a2 b8 b12)
+(pop-start s12 b3 a1 a2 b12 rat-a rat-a)

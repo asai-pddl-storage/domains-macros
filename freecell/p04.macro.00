@@ -1,0 +1,4 @@
+(move club3 club4 heart4)
+(sendtofree club4 heart2 n2 n1)
+(move heart2 cluba club3)
+(sendtohome-b cluba club n1 club0 n0 n0 n1)

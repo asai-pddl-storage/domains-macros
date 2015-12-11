@@ -1,0 +1,7 @@
+(ship-order-o14 n0 n1)
+(ship-order-o7 n1 n2)
+(ship-order-o1 n2 n3)
+(ship-order-o17 n3 n4)
+(start-order o18 n4 n3)
+(start-order o19 n3 n2)
+(start-order o3 n2 n1)

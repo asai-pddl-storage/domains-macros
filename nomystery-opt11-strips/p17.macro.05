@@ -1,0 +1,4 @@
+(load p4 t0 l4)
+(load p3 t0 l4)
+(load p1 t0 l4)
+(drive t0 l4 l5 level26 level3 level29)

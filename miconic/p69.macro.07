@@ -1,0 +1,5 @@
+(down f27 f12)
+(board f12 p12)
+(depart f12 p4)
+(down f12 f10)
+(depart f10 p12)

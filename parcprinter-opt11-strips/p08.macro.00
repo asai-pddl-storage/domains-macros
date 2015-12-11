@@ -1,0 +1,4 @@
+(initialize )
+(fe1-feedmsi-letter sheet1)
+(hw1-leftentrytotopleftexit-letter sheet1)
+(uc1-inverttoime-letter sheet1 back front)

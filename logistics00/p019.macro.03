@@ -1,0 +1,5 @@
+(drive-truck tru4 pos4 apt4 cit4)
+(unload-truck obj43 tru4 apt4)
+(unload-truck obj42 tru4 apt4)
+(unload-truck obj41 tru4 apt4)
+(fly-airplane apn1 apt1 apt4)

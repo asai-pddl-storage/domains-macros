@@ -1,0 +1,7 @@
+(sys-stack-letter sheet1 dummy-sheet)
+(fe1-feedmsi-letter sheet2)
+(hw1-leftentrytotopleftexit-letter sheet2)
+(uc1-inverttoime-letter sheet2 back front)
+(uime-simplex-letter sheet2 front image-2)
+(uc1-fromime-letter sheet2)
+(hw1-toprightentrytorightexit-letter sheet2)

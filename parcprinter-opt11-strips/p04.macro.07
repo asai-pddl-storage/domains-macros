@@ -1,0 +1,4 @@
+(up-movetop-letter sheet2)
+(finisher1-stack-letter sheet2 sheet1)
+(finisher1-stack-letter sheet3 sheet2)
+(finisher1-stack-letter sheet4 sheet3)

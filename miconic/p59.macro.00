@@ -1,0 +1,5 @@
+(board f0 p11)
+(up f0 f10)
+(board f10 p7)
+(down f10 f3)
+(board f3 p2)

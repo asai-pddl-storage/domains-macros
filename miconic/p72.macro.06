@@ -1,0 +1,6 @@
+(depart f17 p13)
+(down f17 f0)
+(depart f0 p8)
+(depart f0 p6)
+(depart f0 p4)
+(up f0 f29)

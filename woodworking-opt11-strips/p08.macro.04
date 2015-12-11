@@ -1,0 +1,3 @@
+(cut-board-small b0 p5 highspeed-saw0 beech rough s7 s6)
+(do-immersion-varnish p4 immersion-varnisher0 black smooth)
+(do-plane p1 planer0 rough natural untreated)

@@ -1,0 +1,5 @@
+(push-start s13 b8 a1 a3 b4 lco oc1b ta1-1-lco)
+(push-start s23 b12 a2 a3 b2 gasoleo rat-a ta2-1-gasoleo)
+(push-unitarypipe s34 b6 a3 a4 b3 gasoleo gasoleo ta3-1-gasoleo ta4-1-gasoleo)
+(push-end s23 a2 a3 b11 b13 gasoleo ta3-1-gasoleo)
+(push-end s13 a1 a3 b9 b4 oc1b ta3-1-oc1b)

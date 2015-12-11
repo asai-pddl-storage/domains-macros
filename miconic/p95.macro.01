@@ -1,0 +1,8 @@
+(board f17 p0)
+(board f17 p4)
+(down f17 f4)
+(board f4 p10)
+(depart f4 p1)
+(up f4 f20)
+(board f20 p8)
+(down f20 f11)

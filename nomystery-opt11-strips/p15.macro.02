@@ -1,0 +1,3 @@
+(load p1 t0 l1)
+(drive t0 l1 l4 level73 level13 level86)
+(unload p5 t0 l4)

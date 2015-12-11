@@ -1,0 +1,5 @@
+(pop-end s13 a1 a3 b1 b8 oc1b ta1-1-oc1b)
+(pop-end s12 a1 a2 b5 b12 gasoleo ta1-1-gasoleo)
+(pop-start s13 b6 a1 a3 b11 gasoleo gasoleo ta3-1-gasoleo)
+(push-start s12 b1 a1 a2 b12 gasoleo gasoleo ta1-1-gasoleo)
+(pop-unitarypipe s34 b0 a3 a4 b3 oca1 gasoleo ta3-1-gasoleo ta4-1-oca1)

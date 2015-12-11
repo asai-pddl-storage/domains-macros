@@ -1,0 +1,3 @@
+(do-saw-small b0 p2 saw0 cherry rough s3 s2)
+(load-highspeed-saw b1 highspeed-saw0)
+(cut-board-small b1 p5 highspeed-saw0 pine rough s7 s6)

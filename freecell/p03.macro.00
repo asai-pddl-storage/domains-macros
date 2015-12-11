@@ -1,0 +1,3 @@
+(sendtofree diamond4 diamond3 n2 n1)
+(sendtohome diamonda spade2 diamond n1 diamond0 n0)
+(sendtohome diamond2 cluba diamond n2 diamonda n1)

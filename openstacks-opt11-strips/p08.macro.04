@@ -1,0 +1,7 @@
+(start-order o11 n2 n1)
+(make-product-p17 )
+(start-order o5 n1 n0)
+(make-product-p11 )
+(make-product-p5 )
+(ship-order-o11 n0 n1)
+(open-new-stack n1 n2)

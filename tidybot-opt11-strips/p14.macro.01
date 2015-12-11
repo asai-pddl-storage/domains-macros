@@ -1,0 +1,3 @@
+(park pr2)
+(gripper-down pr2 x1 y1 xrel0 x1 yrel0 yrel1 y1 y2)
+(get-down pr2 x1 y1 xrel0 x1 yrel1 y2 object1 y3)

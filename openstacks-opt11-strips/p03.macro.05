@@ -1,0 +1,5 @@
+(start-order o11 n2 n1)
+(make-product-p12 )
+(make-product-p5 )
+(open-new-stack n1 n2)
+(start-order o6 n2 n1)

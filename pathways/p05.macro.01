@@ -1,0 +1,4 @@
+(initialize ge2)
+(initialize cdk1p1p2)
+(choose pcna l4 l3)
+(initialize pcna)

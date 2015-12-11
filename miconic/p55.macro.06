@@ -1,0 +1,4 @@
+(down f21 f15)
+(board f15 p0)
+(depart f15 p4)
+(down f15 f4)
