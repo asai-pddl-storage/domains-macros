@@ -1,0 +1,4 @@
+(sendtohome-b spadea spade n1 spade0 n0 n0 n1)
+(sendtohome spade2 club3 spade n2 spadea n1)
+(sendtohome spade3 heart2 spade n3 spade2 n2)
+(sendtofree heart2 hearta n2 n1)

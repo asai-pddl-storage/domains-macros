@@ -1,0 +1,5 @@
+(cut-board-small b1 p4 highspeed-saw0 pine rough s2 s1)
+(cut-board-large b1 p2 highspeed-saw0 pine rough s3 s1 s2 s0)
+(do-plane p2 planer0 rough natural untreated)
+(do-grind p2 grinder0 smooth natural untreated untreated)
+(do-glaze p2 glazer0 blue)

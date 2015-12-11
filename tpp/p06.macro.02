@@ -1,0 +1,6 @@
+(buy truck1 goods2 market1 level0 level1 level0 level1)
+(load goods2 truck1 market1 level0 level1 level1 level2)
+(load goods1 truck1 market1 level0 level1 level0 level1)
+(drive truck1 market1 market2)
+(drive truck1 market2 depot1)
+(unload goods6 truck1 depot1 level0 level1 level0 level1)

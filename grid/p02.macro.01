@@ -1,0 +1,7 @@
+(move node4-3 node4-2)
+(unlock node4-2 node3-2 key4 triangle)
+(move node4-2 node4-3)
+(pickup-and-loose node4-3 key8 key4)
+(move node4-3 node4-2)
+(move node4-2 node3-2)
+(putdown node3-2 key8)

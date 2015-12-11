@@ -1,0 +1,3 @@
+(analyze-2 seg-in-3 seg-out-1 car-out-4 car-in-3)
+(analyze-2 seg-in-2 seg-out-1 car-out-1 car-out-4)
+(rotate-2 seg-in-2 seg-out-4 car-out-4 car-in-2)

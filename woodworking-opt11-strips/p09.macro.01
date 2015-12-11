@@ -1,0 +1,4 @@
+(do-saw-small b0 p2 saw0 teak rough s2 s1)
+(load-highspeed-saw b2 highspeed-saw0)
+(cut-board-medium b2 p6 highspeed-saw0 mahogany smooth s5 s4 s3)
+(cut-board-large b2 p0 highspeed-saw0 mahogany smooth s3 s1 s2 s0)

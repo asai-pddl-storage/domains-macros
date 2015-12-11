@@ -1,0 +1,8 @@
+(inject_code-yeti-proc_1-new_injector-sherpa-proc_0-wexplorer-bob-fb_virus )
+(proc_fork-yeti-bob_uid-proc_0-wexplorer )
+(exec_file-yeti-bob-bob_uid-east_gid-proc_2-y_tmaster )
+(proc_fork-sherpa-greg_uid-proc_0-wexplorer )
+(exec_file-sherpa-greg-greg_uid-everyone-proc_1-s_iexplore )
+(dms_begin_session-dmss2 )
+(dms_client_find-sherpa-proc_1-iexplorer-greg-dmss2 )
+(dms_connect-proc_0-everest-nes-dmss2 )

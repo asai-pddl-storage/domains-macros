@@ -1,0 +1,5 @@
+(push-end s13 a1 a3 b8 b2 gasoleo ta3-1-gasoleo)
+(push-start s13 b6 a1 a3 b9 gasoleo lco ta1-1-gasoleo)
+(push-end s13 a1 a3 b2 b9 rat-a ta3-1-rat-a)
+(push-start s13 b7 a1 a3 b6 gasoleo gasoleo ta1-2-gasoleo)
+(push-end s13 a1 a3 b9 b6 lco ta3-1-lco)

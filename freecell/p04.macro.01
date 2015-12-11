@@ -1,0 +1,7 @@
+(sendtohome hearta spadea heart n1 heart0 n0)
+(sendtohome heart2 club3 heart n2 hearta n1)
+(sendtohome club3 heart4 club n3 club2 n2)
+(homefromfreecell club4 club n4 club3 n3 n1 n2)
+(sendtohome club5 heart3 club n5 club4 n4)
+(sendtohome heart3 diamond4 heart n3 heart2 n2)
+(sendtohome heart4 spade5 heart n4 heart3 n3)

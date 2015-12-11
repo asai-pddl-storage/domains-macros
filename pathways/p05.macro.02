@@ -1,0 +1,7 @@
+(dummy-action-6 )
+(choose p53 l6 l5)
+(initialize p53)
+(synthesize p53 gadd45)
+(synthesize p53 p21)
+(associate cdk1p1p2 gadd45 cdk1p1p2-gadd45)
+(associate pcna p21 pcna-p21)

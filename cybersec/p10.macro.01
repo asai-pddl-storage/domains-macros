@@ -1,0 +1,7 @@
+(enter_password-bob-bob_uid-yeti-bob_pwd )
+(launch_shell-bob_uid-yeti-y_wexplore-proc_0 )
+(proc_fork-yeti-bob_uid-proc_0-wexplorer )
+(exec_file-yeti-bob-bob_uid-east_gid-proc_1-y_winbork )
+(inject_code-yeti-proc_1-winbork-sherpa-proc_0-wexplorer-bob-fb_virus )
+(proc_fork-yeti-bob_uid-proc_0-wexplorer )
+(exec_file-yeti-bob-bob_uid-east_gid-proc_2-y_tmaster )

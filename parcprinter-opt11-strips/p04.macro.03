@@ -1,0 +1,8 @@
+(endcap-move-letter sheet2)
+(htmoverblack-move-letter sheet2)
+(down-movetop-letter sheet2)
+(htmovercolor-move-letter sheet2)
+(up-movetop-letter sheet2)
+(finisher1-stack-letter sheet2 sheet1)
+(finisher1-stack-letter sheet3 sheet2)
+(finisher1-stack-letter sheet4 sheet3)

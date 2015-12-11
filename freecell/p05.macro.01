@@ -1,0 +1,8 @@
+(homefromfreecell spade5 spade n5 spade4 n4 n0 n1)
+(sendtohome spade6 heart5 spade n6 spade5 n5)
+(sendtohome cluba diamond4 club n1 club0 n0)
+(sendtofree heart5 club3 n1 n0)
+(move heart2 hearta club3)
+(sendtohome hearta club4 heart n1 heart0 n0)
+(sendtohome club2 diamond3 club n2 cluba n1)
+(sendtohome heart2 club3 heart n2 hearta n1)

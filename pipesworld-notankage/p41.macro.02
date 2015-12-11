@@ -1,0 +1,3 @@
+(push-start s13 b14 a1 a3 b10 lco gasoleo)
+(push-end s13 a1 a3 b13 b10)
+(push-start s13 b12 a1 a3 b14 gasoleo lco)

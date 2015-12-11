@@ -1,0 +1,4 @@
+(initialize gp)
+(initialize sp1)
+(synthesize sp1-gp cycep1)
+(synthesize sp1-gp p107)

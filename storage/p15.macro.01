@@ -1,0 +1,5 @@
+(lift hoist2 crate1 container-0-1 loadarea container0)
+(drop hoist2 crate1 depot0-2-2 loadarea depot0)
+(lift hoist2 crate2 container-0-2 loadarea container0)
+(drop hoist2 crate2 depot1-2-3 loadarea depot1)
+(lift hoist2 crate3 container-0-3 loadarea container0)

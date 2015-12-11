@@ -1,0 +1,3 @@
+(do-plane p1 planer0 rough natural untreated)
+(do-immersion-varnish p0 immersion-varnisher0 green smooth)
+(do-spray-varnish p1 spray-varnisher0 green smooth)

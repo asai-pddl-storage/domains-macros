@@ -1,0 +1,7 @@
+(auth_to_dms-everest-greg_dms_pwd-greg_uid-dmss2 )
+(dms_req_begin-dmss2-greg-sherpa )
+(dms_request-dmss2-e_secret_doc-everest-greg_uid-admin_gid )
+(dms_send-dmss2-sherpa-proc_1-e_secret_doc )
+(read_doc-bob-sherpa-proc_1-e_secret_doc-gregs_office-secret_info )
+(read_doc-bob-sherpa-proc_1-e_secret_doc-gregs_office-secret_info-condeff0-yes )
+(read_doc-bob-sherpa-proc_1-e_secret_doc-gregs_office-secret_info-endof-condeffs )

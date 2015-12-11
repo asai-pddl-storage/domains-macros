@@ -1,0 +1,4 @@
+(drive-truck truck2 s0 s2 driver3)
+(disembark-truck driver3 truck2 s2)
+(walk driver3 s2 p1-2)
+(walk driver3 p1-2 s1)

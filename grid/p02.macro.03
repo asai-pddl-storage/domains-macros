@@ -1,0 +1,6 @@
+(move node0-0 node0-1)
+(move node0-1 node1-1)
+(move node1-1 node2-1)
+(move node2-1 node3-1)
+(move node3-1 node4-1)
+(putdown node4-1 key0)

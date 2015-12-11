@@ -1,0 +1,5 @@
+(cut-board-medium b2 p5 highspeed-saw0 pine smooth s5 s4 s3)
+(do-grind p5 grinder0 smooth natural untreated untreated)
+(cut-board-small b2 p3 highspeed-saw0 pine smooth s5 s4)
+(do-grind p3 grinder0 smooth natural untreated untreated)
+(do-immersion-varnish p8 immersion-varnisher0 black smooth)

@@ -1,0 +1,5 @@
+(wait_cb1-condeff0-yes )
+(wait_cb1-endof-condeffs )
+(open-sd1 )
+(close_cb1 )
+(wait_cb1 )

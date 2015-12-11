@@ -1,0 +1,5 @@
+(load p5 t0 l5)
+(drive t0 l5 l4 level60 level12 level72)
+(load p2 t0 l4)
+(drive t0 l4 l3 level52 level8 level60)
+(load p1 t0 l3)

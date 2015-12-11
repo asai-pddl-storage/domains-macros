@@ -1,0 +1,5 @@
+(drive truck1 depot1 market2)
+(drive truck1 market2 market1)
+(buy truck1 goods5 market1 level0 level1 level0 level1)
+(buy truck1 goods4 market1 level0 level1 level0 level1)
+(load goods4 truck1 market1 level0 level1 level0 level1)

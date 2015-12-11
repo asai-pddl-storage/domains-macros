@@ -1,0 +1,4 @@
+(base-right pr2 x1 x2 y0)
+(base-down pr2 x2 y0 y1)
+(base-down pr2 x2 y1 y2)
+(park pr2)

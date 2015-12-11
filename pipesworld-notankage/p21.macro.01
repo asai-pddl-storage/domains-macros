@@ -1,0 +1,4 @@
+(pop-start s12 b2 a1 a2 b11 rat-a gasoleo)
+(pop-end s12 a1 a2 b5 b11)
+(pop-start s12 b0 a1 a2 b2 lco rat-a)
+(pop-end s12 a1 a2 b11 b2)
