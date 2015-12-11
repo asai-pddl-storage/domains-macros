@@ -1,0 +1,6 @@
+(unload-truck obj21 tru2 apt2)
+(load-truck obj12 tru1 pos1)
+(fly-airplane apn1 apt1 apt2)
+(load-airplane obj23 apn1 apt2)
+(fly-airplane apn1 apt2 apt1)
+(unload-airplane obj23 apn1 apt1)

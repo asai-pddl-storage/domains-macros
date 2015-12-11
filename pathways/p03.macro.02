@@ -1,0 +1,6 @@
+(associate sp1 p107 sp1-p107)
+(associate sp1-p107 gp sp1-p107-gp)
+(dummy-action-1 )
+(associate cdk46p1 cycd cdk46p1-cycd)
+(dummy-action-3 )
+(dummy-action-2 )

@@ -1,0 +1,8 @@
+(om-lowerout-letter sheet2)
+(sys-stack-letter sheet2 sheet1)
+(lc1-divert-letter sheet3 back front)
+(lbe-simplex-letter sheet3 front image-3)
+(lc1-merge-letter sheet3)
+(lc2-fmove-letter sheet3)
+(om-lowerout-letter sheet3)
+(sys-stack-letter sheet3 sheet2)

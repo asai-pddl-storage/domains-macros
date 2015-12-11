@@ -1,0 +1,6 @@
+(do-grind p3 grinder0 smooth natural untreated untreated)
+(do-plane p4 planer0 rough natural untreated)
+(do-grind p4 grinder0 smooth natural untreated untreated)
+(do-spray-varnish p1 spray-varnisher0 black smooth)
+(do-spray-varnish p3 spray-varnisher0 black verysmooth)
+(do-spray-varnish p4 spray-varnisher0 black verysmooth)

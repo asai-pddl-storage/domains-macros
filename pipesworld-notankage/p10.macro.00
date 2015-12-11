@@ -1,0 +1,6 @@
+(pop-unitarypipe s12 b9 a1 a2 b2 rat-a gasoleo)
+(pop-unitarypipe s12 b4 a1 a2 b9 lco rat-a)
+(pop-unitarypipe s12 b10 a1 a2 b4 oca1 lco)
+(pop-unitarypipe s12 b5 a1 a2 b10 oca1 oca1)
+(push-unitarypipe s13 b10 a1 a3 b7 oca1 oca1)
+(push-unitarypipe s13 b2 a1 a3 b10 gasoleo oca1)

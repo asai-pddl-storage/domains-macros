@@ -1,0 +1,4 @@
+(choose ge2 l3 l2)
+(initialize ge2)
+(associate e2f13p1-dp12 ge2 e2f13p1-dp12-ge2)
+(synthesize e2f13p1-dp12-ge2 cycdp1)
