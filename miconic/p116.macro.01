@@ -1,0 +1,8 @@
+(board f14 p23)
+(down f14 f4)
+(board f4 p9)
+(up f4 f17)
+(board f17 p2)
+(down f17 f6)
+(board f6 p16)
+(up f6 f20)

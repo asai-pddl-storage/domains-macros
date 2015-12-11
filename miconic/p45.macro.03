@@ -1,0 +1,3 @@
+(board f17 p3)
+(down f17 f15)
+(depart f15 p7)

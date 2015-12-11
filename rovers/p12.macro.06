@@ -1,0 +1,2 @@
+(take_image rover3 waypoint3 objective3 camera3 low_res)
+(communicate_image_data rover3 general objective3 low_res waypoint3 waypoint2)

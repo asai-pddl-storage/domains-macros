@@ -1,0 +1,6 @@
+(board f41 p14)
+(depart f41 p11)
+(down f41 f35)
+(board f35 p0)
+(board f35 p3)
+(depart f35 p14)

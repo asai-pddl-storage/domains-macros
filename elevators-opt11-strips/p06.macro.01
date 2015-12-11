@@ -1,0 +1,2 @@
+(board p3 fast1 n6 n2 n3)
+(move-down-fast fast1 n6 n4)

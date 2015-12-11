@@ -1,0 +1,4 @@
+(board f3 p2)
+(board f3 p4)
+(up f3 f11)
+(depart f11 p11)

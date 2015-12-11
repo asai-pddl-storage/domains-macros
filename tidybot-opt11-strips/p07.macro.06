@@ -1,0 +1,2 @@
+(get-left pr2 x2 y3 xrel1 x3 yrel0 y3 object3 x2)
+(gripper-left pr2 x2 y3 xrel1 xrel0 x3 x2 yrel0 y3)

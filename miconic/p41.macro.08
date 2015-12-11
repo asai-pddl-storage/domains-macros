@@ -1,0 +1,3 @@
+(board f15 p4)
+(down f15 f1)
+(board f1 p0)

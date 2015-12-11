@@ -1,0 +1,3 @@
+(board f19 p2)
+(depart f19 p1)
+(down f19 f8)

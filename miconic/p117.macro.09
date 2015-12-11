@@ -1,0 +1,7 @@
+(depart f44 p15)
+(depart f44 p14)
+(depart f44 p1)
+(down f44 f26)
+(depart f26 p18)
+(up f26 f47)
+(depart f47 p11)

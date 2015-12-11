@@ -1,0 +1,6 @@
+(up f12 f14)
+(board f14 p5)
+(board f14 p6)
+(up f14 f15)
+(board f15 p11)
+(up f15 f19)

@@ -1,0 +1,6 @@
+(depart f24 p4)
+(depart f24 p19)
+(up f24 f33)
+(depart f33 p8)
+(depart f33 p10)
+(up f33 f38)

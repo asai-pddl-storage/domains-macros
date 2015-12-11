@@ -1,0 +1,3 @@
+(base-left pr2 x5 x4 y3)
+(park pr2)
+(get-up pr2 x4 y3 xrel0 x4 yrel0 y3 object1 y2)

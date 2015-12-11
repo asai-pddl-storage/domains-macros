@@ -1,0 +1,2 @@
+(do-grind p5 grinder0 smooth natural untreated untreated)
+(do-plane p3 planer0 rough natural untreated)

@@ -1,0 +1,7 @@
+(depart f6 p7)
+(up f6 f31)
+(depart f31 p16)
+(up f31 f41)
+(depart f41 p15)
+(up f41 f44)
+(depart f44 p22)

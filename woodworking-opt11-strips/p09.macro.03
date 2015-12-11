@@ -1,0 +1,2 @@
+(load-highspeed-saw b2 highspeed-saw0)
+(cut-board-medium b2 p6 highspeed-saw0 mahogany smooth s5 s4 s3)

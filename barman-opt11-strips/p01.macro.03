@@ -1,0 +1,4 @@
+(clean-shaker left right shaker1)
+(grasp right shot4)
+(pour-shot-to-clean-shaker shot4 ingredient3 shaker1 right l0 l1)
+(leave left shaker1)

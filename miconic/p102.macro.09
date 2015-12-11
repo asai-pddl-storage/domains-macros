@@ -1,0 +1,6 @@
+(depart f36 p20)
+(down f36 f33)
+(depart f33 p9)
+(down f33 f7)
+(depart f7 p7)
+(depart f7 p2)

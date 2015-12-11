@@ -1,0 +1,3 @@
+(drive t0 l2 l3 level164 level16 level180)
+(drive t0 l3 l0 level146 level18 level164)
+(load p3 t0 l0)

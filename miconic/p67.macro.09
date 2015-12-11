@@ -1,0 +1,4 @@
+(up f23 f24)
+(depart f24 p1)
+(up f24 f26)
+(depart f26 p8)

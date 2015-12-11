@@ -1,0 +1,6 @@
+(depart f6 p8)
+(up f6 f30)
+(board f30 p9)
+(down f30 f15)
+(depart f15 p9)
+(up f15 f35)

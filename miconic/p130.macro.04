@@ -1,0 +1,8 @@
+(board f35 p7)
+(down f35 f26)
+(depart f26 p14)
+(up f26 f30)
+(board f30 p1)
+(depart f30 p7)
+(up f30 f36)
+(board f36 p2)

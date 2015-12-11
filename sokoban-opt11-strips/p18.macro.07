@@ -1,0 +1,4 @@
+(push-to-nongoal player-01 stone-05 pos-2-4 pos-3-4 pos-4-4 dir-right)
+(push-to-nongoal player-01 stone-05 pos-3-4 pos-4-4 pos-5-4 dir-right)
+(move player-01 pos-4-4 pos-4-5 dir-down)
+(move player-01 pos-4-5 pos-5-5 dir-right)

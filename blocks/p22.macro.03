@@ -1,0 +1,3 @@
+(stack k h)
+(unstack a f)
+(put-down a)

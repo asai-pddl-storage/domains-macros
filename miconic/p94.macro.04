@@ -1,0 +1,6 @@
+(up f18 f28)
+(board f28 p6)
+(board f28 p7)
+(down f28 f23)
+(depart f23 p7)
+(down f23 f8)

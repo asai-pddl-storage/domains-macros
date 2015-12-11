@@ -1,0 +1,5 @@
+(down f19 f5)
+(board f5 p9)
+(up f5 f20)
+(board f20 p13)
+(down f20 f9)

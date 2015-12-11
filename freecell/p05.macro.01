@@ -1,0 +1,3 @@
+(move club2 spade2 diamond3)
+(sendtofree heart4 spade4 n1 n0)
+(sendtohome spade2 club5 spade n2 spadea n1)

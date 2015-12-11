@@ -1,0 +1,2 @@
+(drive truck1 distributor1 depot0)
+(unload hoist0 crate2 truck1 depot0)

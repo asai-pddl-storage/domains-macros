@@ -1,0 +1,8 @@
+(depart f46 p14)
+(up f46 f47)
+(board f47 p6)
+(down f47 f40)
+(board f40 p0)
+(depart f40 p6)
+(depart f40 p23)
+(down f40 f1)

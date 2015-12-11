@@ -1,0 +1,7 @@
+(board f43 p0)
+(down f43 f0)
+(depart f0 p11)
+(depart f0 p0)
+(up f0 f44)
+(board f44 p21)
+(down f44 f42)

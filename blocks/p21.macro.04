@@ -1,0 +1,3 @@
+(unstack g b)
+(stack g i)
+(unstack b a)

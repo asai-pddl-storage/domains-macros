@@ -1,0 +1,4 @@
+(start-order o1 n2 n1)
+(open-new-stack n1 n2)
+(start-order o8 n2 n1)
+(start-order o9 n1 n0)

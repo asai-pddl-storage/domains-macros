@@ -1,0 +1,2 @@
+(load p4 t0 l6)
+(drive t0 l6 l1 level60 level3 level63)

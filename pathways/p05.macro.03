@@ -1,0 +1,3 @@
+(initialize sp1)
+(associate e2f13-dp12 ge2 e2f13-dp12-ge2)
+(synthesize e2f13-dp12-ge2 c-myc)

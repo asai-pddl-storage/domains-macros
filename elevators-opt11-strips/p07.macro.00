@@ -1,0 +1,2 @@
+(board p2 slow2-0 n11 n0 n1)
+(move-down-slow slow2-0 n11 n8)

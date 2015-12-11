@@ -1,0 +1,3 @@
+(unstack j a)
+(put-down j)
+(unstack g c)

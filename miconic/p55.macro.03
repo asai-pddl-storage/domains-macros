@@ -1,0 +1,4 @@
+(depart f8 p6)
+(up f8 f10)
+(depart f10 p5)
+(up f10 f19)

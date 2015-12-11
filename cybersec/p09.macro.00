@@ -1,0 +1,4 @@
+(grab_key-bob-key_0-bobs_office )
+(unlock_lock-bob-bobs_office-door_0-lock_0-key_0 )
+(open_door-bob-bobs_office-door_0 )
+(transit_via_door-bob-bobs_office-gregs_office-door_0 )

@@ -1,0 +1,2 @@
+(put-up pr2 x2 y3 xrel0 x2 yrel0 y3 object0 y2)
+(finish-object object0 x2 y2)

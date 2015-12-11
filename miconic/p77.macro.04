@@ -1,0 +1,5 @@
+(depart f3 p4)
+(depart f3 p13)
+(up f3 f22)
+(depart f22 p8)
+(depart f22 p3)

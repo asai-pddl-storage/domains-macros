@@ -1,0 +1,2 @@
+(navigate rover3 waypoint7 waypoint3)
+(calibrate rover3 camera3 objective3 waypoint3)

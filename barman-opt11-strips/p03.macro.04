@@ -1,0 +1,4 @@
+(clean-shot shot4 ingredient1 right left)
+(fill-shot shot4 ingredient2 right left dispenser2)
+(grasp left shaker1)
+(pour-shot-to-used-shaker shot4 ingredient2 shaker1 right l1 l2)

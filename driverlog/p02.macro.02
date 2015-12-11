@@ -1,0 +1,2 @@
+(board-truck driver2 truck2 s1)
+(load-truck package2 truck2 s1)

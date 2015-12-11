@@ -1,0 +1,2 @@
+(drive-truck truck2 s3 s0 driver1)
+(drive-truck truck2 s0 s1 driver1)

@@ -1,0 +1,4 @@
+(down f11 f4)
+(board f4 p1)
+(up f4 f14)
+(board f14 p3)

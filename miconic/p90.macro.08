@@ -1,0 +1,5 @@
+(depart f20 p8)
+(down f20 f2)
+(depart f2 p6)
+(depart f2 p5)
+(depart f2 p1)

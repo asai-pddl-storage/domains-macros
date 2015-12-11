@@ -1,0 +1,4 @@
+(blackprinter-simplex-letter sheet4 front image-4)
+(blackcontainer-fromime-letter sheet4)
+(colorfeeder-feed-letter sheet2)
+(down-movebottom-letter sheet2)

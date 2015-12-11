@@ -1,0 +1,3 @@
+(stack m k)
+(unstack h d)
+(stack h m)

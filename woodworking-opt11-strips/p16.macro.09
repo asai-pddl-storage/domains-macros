@@ -1,0 +1,2 @@
+(do-grind p2 grinder0 smooth natural untreated untreated)
+(do-spray-varnish p2 spray-varnisher0 black verysmooth)

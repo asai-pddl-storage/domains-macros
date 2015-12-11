@@ -1,0 +1,4 @@
+(down robot1 tile_2-4 tile_1-4)
+(paint-up robot1 tile_2-4 tile_1-4 white)
+(left robot1 tile_1-4 tile_1-3)
+(left robot1 tile_1-3 tile_1-2)

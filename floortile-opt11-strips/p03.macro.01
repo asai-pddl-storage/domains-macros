@@ -1,0 +1,4 @@
+(up robot2 tile_0-1 tile_1-1)
+(up robot2 tile_1-1 tile_2-1)
+(down robot1 tile_3-2 tile_2-2)
+(up robot2 tile_2-1 tile_3-1)

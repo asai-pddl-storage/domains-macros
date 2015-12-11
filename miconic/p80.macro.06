@@ -1,0 +1,5 @@
+(up f27 f29)
+(board f29 p4)
+(board f29 p6)
+(board f29 p8)
+(down f29 f17)

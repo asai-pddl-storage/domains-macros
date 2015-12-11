@@ -1,0 +1,7 @@
+(board f33 p0)
+(depart f33 p19)
+(down f33 f27)
+(board f27 p13)
+(depart f27 p0)
+(down f27 f13)
+(depart f13 p13)

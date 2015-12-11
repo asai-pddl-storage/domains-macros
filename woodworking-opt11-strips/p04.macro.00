@@ -1,0 +1,2 @@
+(do-plane p0 planer0 verysmooth blue glazed)
+(do-glaze p0 glazer0 white)

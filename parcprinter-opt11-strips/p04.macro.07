@@ -1,0 +1,3 @@
+(finisher1-stack-letter sheet1 dummy-sheet)
+(endcap-move-letter sheet2)
+(htmoverblack-move-letter sheet2)
