@@ -1,7 +1,3 @@
 (unstack a d)
 (put-down a)
 (unstack d b)
-(put-down d)
-(unstack b f)
-(put-down b)
-(unstack f e)

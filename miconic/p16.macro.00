@@ -1,5 +1,1 @@
 (up f0 f1)
-(board f1 p1)
-(board f1 p2)
-(up f1 f2)
-(board f2 p3)

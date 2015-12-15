@@ -54,7 +54,3 @@
 (move player-01 pos-04-05 pos-03-05 dir-left)
 (push-to-nongoal player-01 stone-01 pos-03-05 pos-03-04 pos-03-03 dir-up)
 (move player-01 pos-03-04 pos-02-04 dir-left)
-(move player-01 pos-02-04 pos-02-03 dir-up)
-(push-to-nongoal player-01 stone-01 pos-02-03 pos-03-03 pos-04-03 dir-right)
-(push-to-nongoal player-01 stone-01 pos-03-03 pos-04-03 pos-05-03 dir-right)
-(push-to-goal player-01 stone-01 pos-04-03 pos-05-03 pos-06-03 dir-right)

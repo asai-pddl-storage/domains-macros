@@ -7,7 +7,3 @@
 (depart f17 p11)
 (down f17 f8)
 (board f8 p10)
-(up f8 f16)
-(depart f16 p10)
-(down f16 f9)
-(board f9 p2)

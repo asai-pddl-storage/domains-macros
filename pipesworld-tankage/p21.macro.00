@@ -1,5 +1,1 @@
 (push-start s12 b1 a1 a2 b5 gasoleo oc1b ta1-1-gasoleo)
-(push-end s12 a1 a2 b0 b5 lco ta2-1-lco)
-(pop-start s12 b11 a1 a2 b5 gasoleo oc1b ta2-1-gasoleo)
-(pop-end s12 a1 a2 b1 b5 oca1 ta1-1-oca1)
-(pop-start s12 b0 a1 a2 b11 lco gasoleo ta2-1-lco)

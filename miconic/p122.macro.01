@@ -22,7 +22,3 @@
 (down f42 f6)
 (board f6 p2)
 (depart f6 p18)
-(depart f6 p11)
-(up f6 f23)
-(depart f23 p2)
-(up f23 f43)

@@ -20,7 +20,3 @@
 (board f7 p21)
 (up f7 f18)
 (board f18 p17)
-(board f18 p7)
-(down f18 f0)
-(depart f0 p17)
-(up f0 f19)

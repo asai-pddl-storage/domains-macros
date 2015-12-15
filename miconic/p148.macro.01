@@ -26,7 +26,3 @@
 (down f50 f14)
 (board f14 p27)
 (depart f14 p3)
-(up f14 f23)
-(board f23 p19)
-(depart f23 p5)
-(down f23 f4)

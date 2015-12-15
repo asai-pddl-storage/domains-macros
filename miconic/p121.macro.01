@@ -21,7 +21,3 @@
 (depart f42 p19)
 (up f42 f43)
 (board f43 p18)
-(board f43 p2)
-(down f43 f6)
-(depart f6 p18)
-(up f6 f48)

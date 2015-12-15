@@ -1,4 +1,0 @@
-(drive-truck truck3 s1 s2 driver3)
-(unload-truck package1 truck3 s2)
-(walk driver2 s2 p1-2)
-(walk driver2 p1-2 s1)

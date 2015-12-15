@@ -19,7 +19,3 @@
 (depart f10 p8)
 (depart f10 p19)
 (up f10 f40)
-(board f40 p5)
-(depart f40 p7)
-(down f40 f39)
-(board f39 p10)

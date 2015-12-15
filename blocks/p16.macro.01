@@ -4,7 +4,3 @@
 (put-down h)
 (unstack e g)
 (stack e h)
-(unstack f c)
-(stack f e)
-(unstack i a)
-(stack i f)

@@ -26,7 +26,3 @@
 (depart f45 p4)
 (down f45 f23)
 (depart f23 p17)
-(up f23 f46)
-(depart f46 p0)
-(up f46 f47)
-(board f47 p11)

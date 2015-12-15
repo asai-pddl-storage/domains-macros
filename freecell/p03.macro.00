@@ -1,6 +1,2 @@
 (sendtofree diamond4 diamond3 n2 n1)
 (sendtohome diamonda spade2 diamond n1 diamond0 n0)
-(sendtohome diamond2 cluba diamond n2 diamonda n1)
-(sendtohome cluba heart4 club n1 club0 n0)
-(sendtohome diamond3 club2 diamond n3 diamond2 n2)
-(sendtohome-b club2 club n2 cluba n1 n0 n1)

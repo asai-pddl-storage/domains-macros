@@ -26,7 +26,3 @@
 (board f2 p5)
 (depart f2 p1)
 (up f2 f31)
-(board f31 p14)
-(up f31 f35)
-(board f35 p19)
-(up f35 f38)

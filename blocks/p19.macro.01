@@ -5,7 +5,3 @@
 (unstack g j)
 (stack g i)
 (unstack a b)
-(stack a g)
-(unstack b e)
-(stack b a)
-(pick-up h)

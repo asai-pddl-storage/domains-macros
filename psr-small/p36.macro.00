@@ -2,7 +2,3 @@
 (wait_cb5 )
 (wait_cb3 )
 (wait_cb3-condeff0-no-2 )
-(wait_cb3-condeff1-yes )
-(wait_cb3-endof-condeffs )
-(open-sd13 )
-(close_sd6 )

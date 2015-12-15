@@ -23,7 +23,3 @@
 (board f31 p19)
 (board f31 p4)
 (down f31 f13)
-(board f13 p12)
-(depart f13 p19)
-(up f13 f21)
-(depart f21 p4)

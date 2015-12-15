@@ -16,7 +16,3 @@
 (board f20 p12)
 (up f20 f21)
 (board f21 p4)
-(up f21 f22)
-(board f22 p15)
-(up f22 f25)
-(depart f25 p7)

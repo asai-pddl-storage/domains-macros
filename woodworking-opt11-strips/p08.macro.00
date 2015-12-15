@@ -3,7 +3,3 @@
 (do-plane p6 planer0 rough natural untreated)
 (do-grind p6 grinder0 smooth natural untreated untreated)
 (cut-board-medium b0 p0 highspeed-saw0 beech rough s7 s6 s5)
-(do-plane p0 planer0 rough natural untreated)
-(do-grind p0 grinder0 smooth natural untreated untreated)
-(cut-board-large b0 p2 highspeed-saw0 beech rough s7 s5 s6 s4)
-(do-glaze p2 glazer0 black)

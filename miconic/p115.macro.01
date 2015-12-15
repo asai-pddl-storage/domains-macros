@@ -19,7 +19,3 @@
 (up f33 f35)
 (board f35 p18)
 (board f35 p20)
-(down f35 f30)
-(depart f30 p18)
-(down f30 f4)
-(board f4 p12)

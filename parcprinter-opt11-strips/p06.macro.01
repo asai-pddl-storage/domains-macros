@@ -9,7 +9,3 @@
 (colorprinter-simplex-letter sheet3 front image-3)
 (htmoverblack-move-letter sheet4)
 (colorcontainer-fromime-letter sheet1)
-(colorprinter-simplex-letter sheet6 front image-6)
-(down-movetop-letter sheet4)
-(colorcontainer-fromime-letter sheet6)
-(up-moveup-letter sheet1)

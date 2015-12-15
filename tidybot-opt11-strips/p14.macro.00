@@ -3,7 +3,3 @@
 (base-down pr2 x1 y0 y1)
 (finish-object object3 x5 y4)
 (park pr2)
-(gripper-down pr2 x1 y1 xrel0 x1 yrel0 yrel1 y1 y2)
-(get-down pr2 x1 y1 xrel0 x1 yrel1 y2 object1 y3)
-(gripper-up pr2 x1 y1 xrel0 x1 yrel1 yrel0 y2 y1)
-(unpark pr2 xrel0 yrel0)

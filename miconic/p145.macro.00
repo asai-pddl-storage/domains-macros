@@ -27,7 +27,3 @@
 (up f9 f22)
 (board f22 p23)
 (up f22 f24)
-(depart f24 p10)
-(up f24 f30)
-(board f30 p22)
-(depart f30 p8)

@@ -24,7 +24,3 @@
 (down f20 f1)
 (board f1 p10)
 (depart f1 p24)
-(up f1 f2)
-(depart f2 p5)
-(up f2 f35)
-(depart f35 p3)

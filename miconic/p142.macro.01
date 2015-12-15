@@ -24,7 +24,3 @@
 (down f43 f42)
 (depart f42 p20)
 (up f42 f46)
-(board f46 p0)
-(up f46 f48)
-(board f48 p9)
-(up f48 f49)

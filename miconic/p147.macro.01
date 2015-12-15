@@ -27,7 +27,3 @@
 (down f48 f27)
 (depart f27 p28)
 (up f27 f50)
-(board f50 p29)
-(up f50 f51)
-(board f51 p25)
-(depart f51 p22)

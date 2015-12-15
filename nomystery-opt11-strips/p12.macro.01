@@ -1,5 +1,1 @@
 (drive t0 l4 l2 level28 level23 level51)
-(unload p0 t0 l2)
-(drive t0 l2 l1 level23 level5 level28)
-(load p2 t0 l1)
-(unload p1 t0 l1)

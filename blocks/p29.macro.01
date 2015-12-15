@@ -7,7 +7,3 @@
 (stack c k)
 (unstack i n)
 (stack i f)
-(pick-up n)
-(stack n c)
-(unstack i f)
-(stack i n)

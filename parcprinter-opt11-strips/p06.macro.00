@@ -10,7 +10,3 @@
 (blackfeeder-feed-letter sheet4)
 (down-movebottom-letter sheet2)
 (colorcontainer-toime-letter sheet1)
-(blackcontainer-toime-letter sheet4)
-(blackprinter-simplex-letter sheet4 front image-4)
-(colorprinter-simplex-letter sheet1 front image-1)
-(down-movebottom-letter sheet6)

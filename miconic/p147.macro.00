@@ -27,7 +27,3 @@
 (board f8 p18)
 (depart f8 p15)
 (down f8 f2)
-(depart f2 p18)
-(up f2 f28)
-(depart f28 p5)
-(up f28 f29)

@@ -13,7 +13,3 @@
 (board f30 p9)
 (down f30 f15)
 (depart f15 p9)
-(up f15 f35)
-(board f35 p1)
-(board f35 p14)
-(depart f35 p6)

@@ -17,7 +17,3 @@
 (up f19 f38)
 (board f38 p15)
 (board f38 p18)
-(depart f38 p1)
-(down f38 f26)
-(depart f26 p15)
-(up f26 f32)

@@ -11,7 +11,3 @@
 (depart f14 p3)
 (down f14 f3)
 (board f3 p2)
-(up f3 f23)
-(board f23 p12)
-(depart f23 p5)
-(down f23 f21)

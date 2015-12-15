@@ -2,7 +2,3 @@
 (unload-truck obj23 tru2 apt2)
 (unload-truck obj22 tru2 apt2)
 (load-airplane obj23 apn1 apt2)
-(load-airplane obj22 apn1 apt2)
-(fly-airplane apn1 apt2 apt1)
-(unload-airplane obj23 apn1 apt1)
-(unload-airplane obj22 apn1 apt1)
