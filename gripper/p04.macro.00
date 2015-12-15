@@ -5,6 +5,3 @@
 (drop ball10 roomb right)
 (move roomb rooma)
 (pick ball2 rooma left)
-(pick ball3 rooma right)
-(move rooma roomb)
-(drop ball2 roomb left)

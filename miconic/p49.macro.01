@@ -6,6 +6,3 @@
 (depart f6 p6)
 (up f6 f14)
 (depart f14 p5)
-(down f14 f7)
-(depart f7 p7)
-(up f7 f15)

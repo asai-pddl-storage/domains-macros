@@ -3,6 +3,3 @@
 (hw1-leftentrytobottomleftexit-letter sheet1)
 (lc1-inverttoime-letter sheet1 back front)
 (lime-simplex-letter sheet1 front image-1)
-(lc1-fromime-letter sheet1)
-(hw1-bottomrightentrytorightexit-letter sheet1)
-(sys-stack-letter sheet1 dummy-sheet)

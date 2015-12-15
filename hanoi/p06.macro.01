@@ -16,6 +16,3 @@
 (move d1 d2 d4)
 (move d2 peg1 d3)
 (move d1 d4 d2)
-(move d4 d5 peg1)
-(move d1 d2 d4)
-(move d2 d3 d5)

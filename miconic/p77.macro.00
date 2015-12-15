@@ -13,6 +13,3 @@
 (down f17 f4)
 (depart f4 p7)
 (up f4 f19)
-(board f19 p6)
-(up f19 f20)
-(board f20 p5)

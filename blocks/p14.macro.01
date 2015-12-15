@@ -2,6 +2,3 @@
 (pick-up f)
 (stack f h)
 (unstack b g)
-(stack b c)
-(pick-up g)
-(stack g f)

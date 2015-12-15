@@ -22,6 +22,3 @@
 (down f30 f19)
 (depart f19 p1)
 (up f19 f33)
-(board f33 p18)
-(up f33 f34)
-(board f34 p17)

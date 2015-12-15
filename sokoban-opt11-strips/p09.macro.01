@@ -24,6 +24,3 @@
 (push-to-goal player-01 stone-03 pos-04-11 pos-05-11 pos-06-11 dir-right)
 (move player-01 pos-05-11 pos-04-11 dir-left)
 (move player-01 pos-04-11 pos-04-10 dir-up)
-(move player-01 pos-04-10 pos-03-10 dir-left)
-(move player-01 pos-03-10 pos-03-09 dir-up)
-(move player-01 pos-03-09 pos-02-09 dir-left)

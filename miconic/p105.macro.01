@@ -18,6 +18,3 @@
 (up f32 f33)
 (board f33 p0)
 (depart f33 p19)
-(down f33 f27)
-(board f27 p13)
-(depart f27 p0)

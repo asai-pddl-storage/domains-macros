@@ -27,6 +27,3 @@
 (board f50 p6)
 (depart f50 p28)
 (depart f50 p12)
-(down f50 f19)
-(depart f19 p6)
-(up f19 f52)

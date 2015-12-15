@@ -1,5 +1,2 @@
 (lc1-fromime-letter sheet1)
 (hw1-bottomrightentrytorightexit-letter sheet1)
-(sys-stack-letter sheet1 dummy-sheet)
-(fe1-feedmsi-letter sheet2)
-(hw1-leftentrytotopleftexit-letter sheet2)

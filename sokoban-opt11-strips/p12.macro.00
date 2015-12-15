@@ -138,6 +138,3 @@
 (move player-01 pos-07-12 pos-07-13 dir-down)
 (move player-01 pos-07-13 pos-07-14 dir-down)
 (move player-01 pos-07-14 pos-07-15 dir-down)
-(move player-01 pos-07-15 pos-07-16 dir-down)
-(move player-01 pos-07-16 pos-08-16 dir-right)
-(move player-01 pos-08-16 pos-09-16 dir-right)

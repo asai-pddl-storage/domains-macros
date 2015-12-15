@@ -1,5 +1,2 @@
 (pop-end s12 a1 a2 b5 b11)
 (pop-start s12 b0 a1 a2 b2 lco rat-a)
-(pop-end s12 a1 a2 b11 b2)
-(push-start s12 b6 a1 a2 b2 rat-a rat-a)
-(push-end s12 a1 a2 b0 b2)

@@ -11,6 +11,3 @@
 (up f21 f27)
 (board f27 p12)
 (board f27 p13)
-(down f27 f10)
-(depart f10 p12)
-(up f10 f19)

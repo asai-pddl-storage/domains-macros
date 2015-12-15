@@ -1,5 +1,2 @@
 (sendtohome cluba diamonda club n1 club0 n0)
 (sendtohome club2 diamond3 club n2 cluba n1)
-(sendtohome-b diamonda diamond n1 diamond0 n0 n0 n1)
-(sendtonewcol diamond3 spadea n1 n0)
-(sendtohome-b spadea spade n1 spade0 n0 n0 n1)

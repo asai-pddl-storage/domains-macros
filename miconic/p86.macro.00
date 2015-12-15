@@ -15,6 +15,3 @@
 (down f19 f5)
 (board f5 p15)
 (board f5 p2)
-(depart f5 p13)
-(down f5 f3)
-(depart f3 p15)

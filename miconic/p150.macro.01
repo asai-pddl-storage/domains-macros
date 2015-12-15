@@ -28,6 +28,3 @@
 (up f44 f45)
 (board f45 p4)
 (down f45 f9)
-(depart f9 p4)
-(depart f9 p27)
-(up f9 f46)

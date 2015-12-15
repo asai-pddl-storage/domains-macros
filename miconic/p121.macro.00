@@ -22,6 +22,3 @@
 (up f15 f20)
 (depart f20 p24)
 (up f20 f32)
-(board f32 p12)
-(down f32 f30)
-(depart f30 p12)

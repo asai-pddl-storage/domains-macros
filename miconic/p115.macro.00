@@ -20,6 +20,3 @@
 (depart f20 p7)
 (down f20 f9)
 (board f9 p0)
-(depart f9 p3)
-(down f9 f7)
-(board f7 p4)

@@ -2,6 +2,3 @@
 (put-down b)
 (unstack c g)
 (stack c a)
-(unstack g e)
-(put-down g)
-(unstack c a)

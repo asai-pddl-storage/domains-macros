@@ -3,6 +3,3 @@
 (load p3 t0 l0)
 (drive t0 l0 l1 level134 level12 level146)
 (load p5 t0 l1)
-(unload p3 t0 l1)
-(load p1 t0 l1)
-(drive t0 l1 l4 level121 level13 level134)

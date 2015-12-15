@@ -26,6 +26,3 @@
 (board f47 p0)
 (up f47 f48)
 (board f48 p13)
-(up f48 f50)
-(board f50 p12)
-(board f50 p21)

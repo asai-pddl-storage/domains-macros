@@ -1,4 +1,1 @@
 (pop-unitarypipe s13 b12 a1 a3 b8 rat-a rat-a)
-(pop-unitarypipe s12 b4 a1 a2 b5 lco oca1)
-(pop-unitarypipe s12 b6 a1 a2 b4 lco lco)
-(pop-unitarypipe s12 b13 a1 a2 b6 rat-a lco)

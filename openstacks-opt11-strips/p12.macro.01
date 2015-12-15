@@ -16,6 +16,3 @@
 (ship-order-o5 n0 n1)
 (open-new-stack n1 n2)
 (start-order o9 n2 n1)
-(start-order o8 n1 n0)
-(make-product-p13 )
-(make-product-p17 )

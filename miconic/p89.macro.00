@@ -15,6 +15,3 @@
 (board f16 p16)
 (board f16 p6)
 (down f16 f8)
-(board f8 p8)
-(up f8 f18)
-(board f18 p1)

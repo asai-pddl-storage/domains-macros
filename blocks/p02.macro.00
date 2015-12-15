@@ -1,4 +1,1 @@
 (unstack b c)
-(put-down b)
-(unstack c a)
-(put-down c)

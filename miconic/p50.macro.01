@@ -6,6 +6,3 @@
 (board f18 p7)
 (depart f18 p2)
 (down f18 f13)
-(depart f13 p8)
-(depart f13 p7)
-(down f13 f7)

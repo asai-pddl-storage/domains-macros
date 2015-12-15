@@ -1,5 +1,2 @@
 (drop hoist0 crate1 depot0-2-1 loadarea depot0)
 (lift hoist0 crate2 container-0-2 loadarea container0)
-(move hoist1 depot0-1-2 depot0-2-2)
-(lift hoist1 crate1 depot0-2-1 depot0-2-2 depot0)
-(drop hoist1 crate1 depot0-1-2 depot0-2-2 depot0)

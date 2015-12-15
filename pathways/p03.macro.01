@@ -1,6 +1,3 @@
 (associate sp1 gp sp1-gp)
 (initialize gp)
 (initialize sp1)
-(synthesize sp1-gp cyca)
-(synthesize sp1-gp cycd)
-(synthesize sp1-gp p107)

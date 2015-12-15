@@ -7,6 +7,3 @@
 (unstack h j)
 (stack h g)
 (unstack a l)
-(stack a h)
-(unstack l f)
-(put-down l)

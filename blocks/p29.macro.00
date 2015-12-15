@@ -8,6 +8,3 @@
 (stack a h)
 (unstack m k)
 (stack m a)
-(unstack g d)
-(stack g f)
-(unstack d i)

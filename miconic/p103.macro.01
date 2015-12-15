@@ -18,6 +18,3 @@
 (down f30 f7)
 (depart f7 p9)
 (up f7 f32)
-(depart f32 p3)
-(up f32 f33)
-(depart f33 p8)

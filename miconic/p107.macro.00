@@ -19,6 +19,3 @@
 (board f24 p17)
 (depart f24 p5)
 (down f24 f1)
-(depart f1 p17)
-(depart f1 p0)
-(up f1 f32)

@@ -1,4 +1,1 @@
 (unstack a f)
-(stack a d)
-(pick-up b)
-(stack b a)
