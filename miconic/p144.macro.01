@@ -28,5 +28,3 @@
 (depart f33 p27)
 (depart f33 p0)
 (up f33 f40)
-(board f40 p9)
-(down f40 f12)

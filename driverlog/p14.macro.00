@@ -6,5 +6,3 @@
 (drive-truck truck1 s9 s4 driver2)
 (load-truck package6 truck1 s4)
 (unload-truck package4 truck1 s4)
-(unload-truck package3 truck1 s4)
-(drive-truck truck1 s4 s5 driver2)

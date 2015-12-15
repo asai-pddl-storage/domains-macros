@@ -4,5 +4,3 @@
 (push-end s12 a1 a2 b1 b6)
 (push-start s13 b9 a1 a3 b3 lco lco)
 (push-end s13 a1 a3 b8 b3)
-(push-start s12 b2 a1 a2 b0 rat-a gasoleo)
-(push-start s13 b5 a1 a3 b9 gasoleo lco)

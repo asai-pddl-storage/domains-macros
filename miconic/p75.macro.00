@@ -12,5 +12,3 @@
 (depart f0 p14)
 (up f0 f20)
 (depart f20 p8)
-(depart f20 p5)
-(down f20 f9)

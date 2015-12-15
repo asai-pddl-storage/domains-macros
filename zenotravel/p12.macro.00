@@ -3,5 +3,3 @@
 (fly plane3 city5 city3 fl2 fl1)
 (debark person7 plane3 city3)
 (fly plane2 city3 city0 fl6 fl5)
-(board person3 plane2 city0)
-(fly plane2 city0 city1 fl5 fl4)

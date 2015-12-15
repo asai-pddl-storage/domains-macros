@@ -7,5 +7,3 @@
 (lc2-mergeinvert-letter sheet4)
 (om-lowerout-letter sheet4)
 (lc1-divert-letter sheet1 back front)
-(lbe-simplex-letter sheet1 front image-1)
-(lc1-merge-letter sheet1)

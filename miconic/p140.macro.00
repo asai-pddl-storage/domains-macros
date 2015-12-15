@@ -27,5 +27,3 @@
 (depart f17 p4)
 (up f17 f33)
 (board f33 p16)
-(board f33 p20)
-(board f33 p9)

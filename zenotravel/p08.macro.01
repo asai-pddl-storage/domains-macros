@@ -1,4 +1,2 @@
 (board person3 plane1 city2)
 (fly plane1 city2 city1 fl4 fl3)
-(debark person3 plane1 city1)
-(board person1 plane1 city1)

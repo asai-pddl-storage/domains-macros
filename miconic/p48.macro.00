@@ -7,5 +7,3 @@
 (down f3 f0)
 (depart f0 p0)
 (up f0 f11)
-(depart f11 p5)
-(up f11 f15)

@@ -5,5 +5,3 @@
 (board f5 p4)
 (depart f5 p0)
 (down f5 f3)
-(board f3 p6)
-(depart f3 p4)

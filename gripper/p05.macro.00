@@ -8,5 +8,3 @@
 (pick ball12 rooma right)
 (move rooma roomb)
 (drop ball11 roomb left)
-(drop ball12 roomb right)
-(move roomb rooma)

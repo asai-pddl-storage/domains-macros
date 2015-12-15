@@ -4,5 +4,3 @@
 (do-grind p2 grinder0 smooth natural untreated untreated)
 (do-spray-varnish p2 spray-varnisher0 mauve verysmooth)
 (do-saw-medium b1 p7 saw0 mahogany smooth s2 s1 s0)
-(load-highspeed-saw b2 highspeed-saw0)
-(do-glaze p7 glazer0 mauve)

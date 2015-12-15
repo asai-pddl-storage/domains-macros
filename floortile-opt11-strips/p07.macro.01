@@ -11,5 +11,3 @@
 (right robot1 tile_2-3 tile_2-4)
 (right robot2 tile_1-2 tile_1-3)
 (paint-up robot2 tile_2-3 tile_1-3 black)
-(down robot2 tile_1-3 tile_0-3)
-(down robot1 tile_2-4 tile_1-4)

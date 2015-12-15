@@ -22,5 +22,3 @@
 (board f33 p20)
 (depart f33 p4)
 (up f33 f44)
-(board f44 p23)
-(depart f44 p8)

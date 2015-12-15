@@ -17,5 +17,3 @@
 (depart f7 p18)
 (up f7 f32)
 (board f32 p11)
-(depart f32 p4)
-(down f32 f19)

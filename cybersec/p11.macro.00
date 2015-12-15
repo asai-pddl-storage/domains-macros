@@ -7,5 +7,3 @@
 (sit_at_host-greg-sherpa-gregs_office )
 (enter_uname-greg-greg_uid-sherpa )
 (enter_password-greg-greg_uid-sherpa-greg_pwd )
-(launch_shell-greg_uid-sherpa-s_wexplore-proc_0 )
-(proc_fork-yeti-bob_uid-proc_0-wexplorer )

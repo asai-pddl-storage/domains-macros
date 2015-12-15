@@ -2,5 +2,3 @@
 (walk driver2 p0-1 s1)
 (board-truck driver1 truck1 s1)
 (drive-truck truck1 s1 s2 driver1)
-(board-truck driver2 truck2 s1)
-(load-truck package4 truck1 s2)

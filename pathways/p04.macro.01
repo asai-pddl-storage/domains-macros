@@ -2,5 +2,3 @@
 (synthesize sp1-gp cycep1)
 (synthesize sp1-gp p107)
 (synthesize sp1-gp p107p1)
-(synthesize sp1-gp pol)
-(dummy-action-2 )

@@ -6,5 +6,3 @@
 (dummy-action-1 )
 (dummy-action-6 )
 (choose p53 l6 l5)
-(initialize p53)
-(synthesize p53 gadd45)

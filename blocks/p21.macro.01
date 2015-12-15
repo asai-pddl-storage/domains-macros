@@ -7,5 +7,3 @@
 (unstack b a)
 (put-down b)
 (pick-up a)
-(stack a f)
-(pick-up c)

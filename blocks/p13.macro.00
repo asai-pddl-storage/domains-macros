@@ -2,5 +2,3 @@
 (stack a c)
 (unstack g e)
 (stack g b)
-(unstack a c)
-(stack a g)

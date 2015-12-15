@@ -26,5 +26,3 @@
 (up f24 f25)
 (board f25 p21)
 (up f25 f29)
-(board f29 p0)
-(up f29 f34)

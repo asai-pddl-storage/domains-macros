@@ -5,5 +5,3 @@
 (up f4 f15)
 (board f15 p0)
 (down f15 f6)
-(board f6 p5)
-(board f6 p6)

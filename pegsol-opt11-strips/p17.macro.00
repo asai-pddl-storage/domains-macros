@@ -6,5 +6,3 @@
 (end-move pos-2-4)
 (jump-new-move pos-3-2 pos-4-2 pos-5-2)
 (end-move pos-5-2)
-(jump-new-move pos-2-0 pos-2-1 pos-2-2)
-(end-move pos-2-2)

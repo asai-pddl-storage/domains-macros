@@ -19,5 +19,3 @@
 (make-product-p10 )
 (ship-order-o14 n0 n1)
 (ship-order-o4 n1 n2)
-(start-order o1 n2 n1)
-(start-order o13 n1 n0)

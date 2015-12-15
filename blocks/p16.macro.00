@@ -6,5 +6,3 @@
 (stack e g)
 (unstack a i)
 (put-down a)
-(unstack i d)
-(stack i a)

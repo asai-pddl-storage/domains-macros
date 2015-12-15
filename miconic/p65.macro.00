@@ -10,5 +10,3 @@
 (down f12 f5)
 (board f5 p0)
 (up f5 f21)
-(board f21 p9)
-(down f21 f17)

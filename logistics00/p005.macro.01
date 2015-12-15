@@ -5,5 +5,3 @@
 (unload-airplane obj13 apn1 apt2)
 (unload-airplane obj12 apn1 apt2)
 (unload-airplane obj11 apn1 apt2)
-(drive-truck tru2 pos2 apt2 cit2)
-(unload-truck obj23 tru2 apt2)

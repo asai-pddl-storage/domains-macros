@@ -10,5 +10,3 @@
 (board f4 p9)
 (up f4 f12)
 (board f12 p8)
-(depart f12 p3)
-(down f12 f8)

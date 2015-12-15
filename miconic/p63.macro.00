@@ -12,5 +12,3 @@
 (up f5 f14)
 (depart f14 p2)
 (up f14 f15)
-(depart f15 p9)
-(up f15 f16)

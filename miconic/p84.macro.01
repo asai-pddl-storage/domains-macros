@@ -16,5 +16,3 @@
 (up f21 f25)
 (depart f25 p7)
 (up f25 f26)
-(board f26 p9)
-(up f26 f28)

@@ -6,5 +6,3 @@
 (down f14 f13)
 (depart f13 p5)
 (down f13 f9)
-(board f9 p1)
-(down f9 f7)

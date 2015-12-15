@@ -139,5 +139,3 @@
 (move player-01 pos-13-16 pos-12-16 dir-left)
 (move player-01 pos-12-16 pos-11-16 dir-left)
 (move player-01 pos-11-16 pos-10-16 dir-left)
-(move player-01 pos-10-16 pos-09-16 dir-left)
-(move player-01 pos-09-16 pos-08-16 dir-left)

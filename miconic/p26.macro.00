@@ -3,5 +3,3 @@
 (up f2 f5)
 (board f5 p2)
 (up f5 f9)
-(board f9 p1)
-(board f9 p4)

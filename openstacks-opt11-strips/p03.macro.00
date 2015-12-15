@@ -10,5 +10,3 @@
 (start-order o5 n2 n1)
 (make-product-p7 )
 (make-product-p9 )
-(open-new-stack n1 n2)
-(start-order o12 n2 n1)

@@ -1,3 +1,1 @@
 (pop-unitarypipe s13 b1 a1 a3 b3 gasoleo oca1 ta1-1-oca1 ta3-1-gasoleo)
-(push-unitarypipe s12 b7 a1 a2 b5 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo)
-(push-unitarypipe s12 b3 a1 a2 b7 oca1 gasoleo ta1-1-oca1 ta2-2-gasoleo)

@@ -9,5 +9,3 @@
 (fe1-feedmsi-letter sheet5)
 (hw1-leftentrytobottomleftexit-letter sheet5)
 (lc1-inverttoime-letter sheet5 back front)
-(lime-simplex-letter sheet5 front image-5)
-(lc1-fromime-letter sheet5)

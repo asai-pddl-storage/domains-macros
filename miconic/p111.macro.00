@@ -22,5 +22,3 @@
 (board f28 p16)
 (board f28 p22)
 (down f28 f1)
-(depart f1 p4)
-(depart f1 p22)

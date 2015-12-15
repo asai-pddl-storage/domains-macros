@@ -3,5 +3,3 @@
 (unstack b e)
 (stack b a)
 (unstack e f)
-(put-down e)
-(pick-up f)

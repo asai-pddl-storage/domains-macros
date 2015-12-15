@@ -2,5 +2,3 @@
 (initialize cdk46p1)
 (choose gp l2 l1)
 (initialize gp)
-(choose sp1 l3 l2)
-(initialize sp1)

@@ -6,5 +6,3 @@
 (sendtohome spade2 club5 spade n2 spadea n1)
 (sendtohome spade3 spade6 spade n3 spade2 n2)
 (sendtohome spade4 cluba spade n4 spade3 n3)
-(homefromfreecell spade5 spade n5 spade4 n4 n0 n1)
-(sendtohome spade6 heart5 spade n6 spade5 n5)

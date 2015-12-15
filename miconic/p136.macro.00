@@ -28,5 +28,3 @@
 (up f33 f34)
 (board f34 p6)
 (down f34 f11)
-(depart f11 p6)
-(up f11 f35)

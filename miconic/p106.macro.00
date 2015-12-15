@@ -21,5 +21,3 @@
 (up f27 f28)
 (depart f28 p3)
 (up f28 f29)
-(board f29 p17)
-(board f29 p18)

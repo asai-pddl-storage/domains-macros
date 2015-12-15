@@ -5,5 +5,3 @@
 (putdown node3-2 key8)
 (move node3-2 node3-1)
 (move node3-1 node2-1)
-(move node2-1 node1-1)
-(move node1-1 node0-1)

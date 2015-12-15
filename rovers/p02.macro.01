@@ -1,3 +1,1 @@
 (sample_rock rover0 rover0store waypoint0)
-(communicate_rock_data rover0 general waypoint0 waypoint0 waypoint1)
-(drop rover0 rover0store)

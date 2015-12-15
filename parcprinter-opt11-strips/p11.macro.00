@@ -11,5 +11,3 @@
 (lc1-inverttoime-letter sheet2 back front)
 (lime-simplex-letter sheet2 front image-2)
 (lc1-fromime-letter sheet2)
-(hw1-bottomrightentrytorightexit-letter sheet2)
-(sys-stack-letter sheet2 sheet1)

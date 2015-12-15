@@ -16,5 +16,3 @@
 (depart f5 p14)
 (up f5 f24)
 (depart f24 p3)
-(depart f24 p2)
-(up f24 f30)

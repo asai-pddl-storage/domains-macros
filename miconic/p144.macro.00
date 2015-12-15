@@ -29,5 +29,3 @@
 (board f10 p16)
 (board f10 p19)
 (depart f10 p2)
-(down f10 f8)
-(depart f8 p26)

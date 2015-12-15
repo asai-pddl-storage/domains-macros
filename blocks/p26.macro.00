@@ -8,5 +8,3 @@
 (put-down k)
 (unstack i f)
 (stack i d)
-(unstack f b)
-(stack f h)

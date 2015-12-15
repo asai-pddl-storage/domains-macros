@@ -5,5 +5,3 @@
 (drive t0 l5 l0 level142 level21 level163)
 (load p2 t0 l0)
 (drive t0 l0 l6 level132 level10 level142)
-(load p6 t0 l6)
-(unload p4 t0 l6)

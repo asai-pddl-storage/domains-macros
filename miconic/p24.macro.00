@@ -2,5 +2,3 @@
 (board f1 p4)
 (up f1 f2)
 (depart f2 p4)
-(up f2 f3)
-(board f3 p0)

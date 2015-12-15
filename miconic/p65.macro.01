@@ -10,5 +10,3 @@
 (depart f7 p0)
 (down f7 f2)
 (depart f2 p8)
-(depart f2 p12)
-(up f2 f24)

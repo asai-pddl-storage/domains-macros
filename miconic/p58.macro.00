@@ -10,5 +10,3 @@
 (depart f7 p5)
 (depart f7 p3)
 (up f7 f15)
-(board f15 p4)
-(board f15 p8)

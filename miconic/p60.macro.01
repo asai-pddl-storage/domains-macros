@@ -10,5 +10,3 @@
 (depart f18 p0)
 (down f18 f7)
 (board f7 p9)
-(up f7 f20)
-(board f20 p8)

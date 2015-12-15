@@ -5,5 +5,3 @@
 (load hoist2 crate5 truck1 distributor1)
 (lift hoist2 crate2 pallet2 distributor1)
 (load hoist2 crate2 truck1 distributor1)
-(unload hoist2 crate1 truck1 distributor1)
-(drop hoist2 crate1 pallet2 distributor1)

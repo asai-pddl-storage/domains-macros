@@ -10,5 +10,3 @@
 (up f13 f25)
 (board f25 p6)
 (down f25 f1)
-(depart f1 p6)
-(depart f1 p0)

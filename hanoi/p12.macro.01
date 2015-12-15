@@ -1361,5 +1361,3 @@
 (move d2 d7 d3)
 (move d1 d4 d2)
 (move d4 d5 d7)
-(move d1 d2 d4)
-(move d2 d3 d5)
