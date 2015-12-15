@@ -1,4 +1,0 @@
-(push-start s12 b1 a1 a2 b6 gasoleo rat-a ta1-1-gasoleo)
-(push-end s12 a1 a2 b0 b6 lco ta2-1-lco)
-(push-start s12 b5 a1 a2 b1 oc1b gasoleo ta1-1-oc1b)
-(push-end s12 a1 a2 b6 b1 rat-a ta2-2-rat-a)

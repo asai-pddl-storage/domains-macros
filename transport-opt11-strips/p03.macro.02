@@ -1,5 +1,0 @@
-(drive truck-2 city-2-loc-2 city-2-loc-1)
-(drop truck-2 city-2-loc-1 package-3 capacity-1 capacity-2)
-(drive truck-2 city-2-loc-1 city-2-loc-4)
-(drive truck-2 city-2-loc-4 city-2-loc-3)
-(drop truck-2 city-2-loc-3 package-2 capacity-2 capacity-3)

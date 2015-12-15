@@ -1,4 +1,0 @@
-(homefromfreecell h2 h n2 ha n1 n3 n4)
-(sendtohome-b h3 h n3 h2 n2 n5 n6)
-(sendtohome-b d2 d n2 da n1 n6 n7)
-(sendtohome-b d3 d n3 d2 n2 n7 n8)

@@ -1,3 +1,0 @@
-(pop-unitarypipe s12 b9 a1 a2 b3 oc1b oca1 ta1-1-oca1 ta2-1-oc1b)
-(pop-unitarypipe s12 b5 a1 a2 b9 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo)
-(pop-unitarypipe s12 b0 a1 a2 b5 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a)
