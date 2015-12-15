@@ -1,4 +1,0 @@
-(load p1 t0 l1)
-(unload p0 t0 l1)
-(drive t0 l1 l3 level8 level11 level19)
-(load p2 t0 l3)

@@ -1,5 +1,0 @@
-(move-car-to-car car_07 car_00 car_06)
-(move-curb-to-car car_00 curb_2 car_11)
-(move-car-to-curb car_02 car_09 curb_2)
-(move-curb-to-car car_09 curb_4 car_02)
-(move-car-to-curb car_04 car_08 curb_4)

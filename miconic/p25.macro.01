@@ -1,6 +1,0 @@
-(board f7 p3)
-(down f7 f5)
-(board f5 p0)
-(depart f5 p3)
-(down f5 f1)
-(depart f1 p0)
