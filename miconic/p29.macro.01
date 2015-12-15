@@ -1,7 +1,0 @@
-(depart f0 p3)
-(depart f0 p2)
-(up f0 f11)
-(depart f11 p0)
-(down f11 f8)
-(depart f8 p4)
-(down f8 f6)

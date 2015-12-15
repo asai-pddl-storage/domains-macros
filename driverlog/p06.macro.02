@@ -1,3 +1,0 @@
-(board-truck driver2 truck2 s1)
-(drive-truck truck2 s1 s0 driver2)
-(disembark-truck driver2 truck2 s0)

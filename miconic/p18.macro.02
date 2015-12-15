@@ -1,5 +1,0 @@
-(up f2 f6)
-(board f6 p3)
-(depart f6 p2)
-(up f6 f7)
-(depart f7 p3)

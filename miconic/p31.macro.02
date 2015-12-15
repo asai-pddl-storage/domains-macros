@@ -1,7 +1,0 @@
-(up f6 f11)
-(depart f11 p6)
-(down f11 f9)
-(board f9 p1)
-(down f9 f5)
-(depart f5 p5)
-(depart f5 p1)
