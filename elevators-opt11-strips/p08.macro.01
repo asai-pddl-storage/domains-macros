@@ -1,7 +1,0 @@
-(leave p3 slow0-0 n2 n2 n1)
-(move-up-slow slow0-0 n2 n4)
-(leave p2 slow0-0 n4 n1 n0)
-(board p2 slow1-0 n4 n1 n2)
-(move-up-slow slow1-0 n4 n5)
-(leave p0 slow1-0 n5 n2 n1)
-(move-up-slow slow1-0 n5 n8)
