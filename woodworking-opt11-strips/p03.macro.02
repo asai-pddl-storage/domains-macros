@@ -1,4 +1,0 @@
-(do-glaze p2 glazer0 mauve)
-(do-saw-large b0 p4 saw0 teak rough s6 s4 s5 s3)
-(do-plane p4 planer0 rough natural untreated)
-(do-immersion-varnish p4 immersion-varnisher0 green smooth)

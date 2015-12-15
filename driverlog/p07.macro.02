@@ -1,4 +1,0 @@
-(unload-truck package2 truck2 s1)
-(drive-truck truck2 s1 s0 driver1)
-(disembark-truck driver1 truck2 s0)
-(unload-truck package5 truck2 s0)
