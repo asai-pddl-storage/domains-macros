@@ -8,8 +8,3 @@
 (load-truck obj13 tru2 apt2)
 (drive-truck tru2 apt2 pos2 cit2)
 (unload-truck obj13 tru2 pos2)
-(fly-airplane apn1 apt2 apt3)
-(unload-airplane obj21 apn1 apt3)
-(unload-airplane obj12 apn1 apt3)
-(unload-airplane obj11 apn1 apt3)
-(drive-truck tru3 pos3 apt3 cit3)

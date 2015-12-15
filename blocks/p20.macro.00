@@ -4,8 +4,3 @@
 (stack g c)
 (unstack e i)
 (put-down e)
-(unstack i j)
-(put-down i)
-(unstack j a)
-(put-down j)
-(unstack g c)

@@ -21,8 +21,3 @@
 (board f40 p19)
 (depart f40 p20)
 (down f40 f28)
-(board f28 p13)
-(depart f28 p8)
-(depart f28 p19)
-(down f28 f19)
-(depart f19 p3)

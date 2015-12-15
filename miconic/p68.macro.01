@@ -9,8 +9,3 @@
 (depart f19 p8)
 (up f19 f21)
 (board f21 p11)
-(depart f21 p9)
-(down f21 f15)
-(board f15 p4)
-(depart f15 p11)
-(down f15 f7)

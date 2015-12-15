@@ -5,8 +5,3 @@
 (unstack j b)
 (put-down j)
 (unstack b g)
-(stack b e)
-(unstack g h)
-(stack g j)
-(unstack h a)
-(put-down h)

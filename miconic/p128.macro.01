@@ -23,8 +23,3 @@
 (depart f31 p4)
 (up f31 f40)
 (board f40 p23)
-(depart f40 p22)
-(up f40 f41)
-(depart f41 p9)
-(depart f41 p23)
-(up f41 f42)

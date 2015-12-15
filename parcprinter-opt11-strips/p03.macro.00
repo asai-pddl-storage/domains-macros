@@ -1,6 +1,1 @@
 (initialize )
-(fe1-feedmsi-letter sheet1)
-(im1-movelower-letter sheet1)
-(lc1-fmove-letter sheet1)
-(fe1-feedmsi-letter sheet2)
-(im1-movelower-letter sheet2)

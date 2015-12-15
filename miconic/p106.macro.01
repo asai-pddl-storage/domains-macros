@@ -17,8 +17,3 @@
 (up f6 f31)
 (depart f31 p17)
 (up f31 f33)
-(depart f33 p11)
-(up f33 f35)
-(board f35 p19)
-(depart f35 p1)
-(up f35 f37)

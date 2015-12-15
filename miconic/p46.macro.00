@@ -4,8 +4,3 @@
 (down f10 f2)
 (board f2 p5)
 (up f2 f13)
-(board f13 p2)
-(down f13 f3)
-(board f3 p0)
-(board f3 p7)
-(up f3 f17)

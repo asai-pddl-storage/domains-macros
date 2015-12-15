@@ -4,8 +4,3 @@
 (up f0 f16)
 (board f16 p2)
 (down f16 f5)
-(board f5 p3)
-(up f5 f10)
-(board f10 p7)
-(board f10 p9)
-(depart f10 p3)

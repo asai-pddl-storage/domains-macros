@@ -7,8 +7,3 @@
 (colorcontainer-toime-letter sheet5)
 (colorprinter-simplex-letter sheet5 front image-5)
 (colorcontainer-fromime-letter sheet5)
-(blackcontainer-toime-letter sheet4)
-(blackprinter-simplex-letter sheet4 front image-4)
-(blackcontainer-fromime-letter sheet4)
-(colorfeeder-feed-letter sheet2)
-(down-movebottom-letter sheet2)

@@ -1,6 +1,1 @@
 (initialize )
-(colorfeeder-feed-letter sheet2)
-(blackfeeder-feed-letter sheet1)
-(down-movebottom-letter sheet2)
-(colorcontainer-toime-letter sheet2)
-(colorprinter-simplex-letter sheet2 front image-2)

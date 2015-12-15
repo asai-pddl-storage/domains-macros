@@ -2,8 +2,3 @@
 (unstack i b)
 (put-down i)
 (unstack b g)
-(stack b c)
-(unstack e d)
-(stack e b)
-(pick-up i)
-(stack i e)

@@ -2,8 +2,3 @@
 (load-truck obj22 tru2 pos2)
 (load-truck obj13 tru1 pos1)
 (load-truck obj12 tru1 pos1)
-(load-truck obj11 tru1 pos1)
-(drive-truck tru1 pos1 apt1 cit1)
-(unload-truck obj13 tru1 apt1)
-(unload-truck obj12 tru1 apt1)
-(unload-truck obj11 tru1 apt1)

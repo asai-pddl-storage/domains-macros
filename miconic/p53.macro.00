@@ -6,8 +6,3 @@
 (down f2 f0)
 (depart f0 p1)
 (up f0 f17)
-(depart f17 p9)
-(down f17 f3)
-(board f3 p4)
-(up f3 f18)
-(board f18 p7)

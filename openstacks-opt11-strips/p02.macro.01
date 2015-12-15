@@ -6,8 +6,3 @@
 (make-product-p8 )
 (ship-order-o3 n0 n1)
 (ship-order-o11 n1 n2)
-(start-order o7 n2 n1)
-(make-product-p4 )
-(make-product-p6 )
-(open-new-stack n1 n2)
-(start-order o2 n2 n1)

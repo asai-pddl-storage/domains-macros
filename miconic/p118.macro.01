@@ -19,8 +19,3 @@
 (up f14 f30)
 (board f30 p15)
 (depart f30 p7)
-(depart f30 p2)
-(depart f30 p13)
-(down f30 f3)
-(depart f3 p18)
-(depart f3 p15)

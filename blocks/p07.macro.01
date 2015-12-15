@@ -1,4 +1,0 @@
-(unstack e b)
-(stack e f)
-(unstack a c)
-(stack a e)

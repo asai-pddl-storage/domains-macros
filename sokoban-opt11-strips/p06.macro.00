@@ -88,8 +88,3 @@
 (move player-01 pos-10-07 pos-09-07 dir-left)
 (move player-01 pos-09-07 pos-09-06 dir-up)
 (move player-01 pos-09-06 pos-08-06 dir-left)
-(move player-01 pos-08-06 pos-07-06 dir-left)
-(move player-01 pos-07-06 pos-06-06 dir-left)
-(move player-01 pos-06-06 pos-05-06 dir-left)
-(move player-01 pos-05-06 pos-04-06 dir-left)
-(move player-01 pos-04-06 pos-04-07 dir-down)

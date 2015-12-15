@@ -16,8 +16,3 @@
 (up f6 f22)
 (board f22 p10)
 (board f22 p7)
-(down f22 f1)
-(depart f1 p8)
-(depart f1 p7)
-(up f1 f23)
-(board f23 p15)

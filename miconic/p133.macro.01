@@ -22,8 +22,3 @@
 (depart f12 p2)
 (depart f12 p14)
 (up f12 f46)
-(board f46 p16)
-(down f46 f1)
-(depart f1 p24)
-(depart f1 p16)
-(depart f1 p15)

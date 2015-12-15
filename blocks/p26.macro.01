@@ -4,8 +4,3 @@
 (stack g b)
 (unstack a l)
 (stack a c)
-(unstack l e)
-(stack l g)
-(unstack f h)
-(stack f l)
-(unstack a c)

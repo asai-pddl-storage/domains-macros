@@ -19,8 +19,3 @@
 (down f12 f9)
 (board f9 p7)
 (up f9 f28)
-(board f28 p16)
-(board f28 p22)
-(down f28 f1)
-(depart f1 p4)
-(depart f1 p22)

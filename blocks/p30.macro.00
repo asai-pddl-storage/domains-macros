@@ -5,8 +5,3 @@
 (unstack i d)
 (stack i g)
 (unstack d l)
-(put-down d)
-(unstack l m)
-(stack l n)
-(pick-up e)
-(stack e l)

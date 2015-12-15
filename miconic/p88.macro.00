@@ -13,8 +13,3 @@
 (board f7 p4)
 (down f7 f3)
 (board f3 p15)
-(depart f3 p4)
-(up f3 f19)
-(depart f19 p15)
-(down f19 f8)
-(board f8 p10)

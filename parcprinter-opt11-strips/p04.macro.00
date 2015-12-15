@@ -5,8 +5,3 @@
 (colorprinter-simplex-letter sheet4 front image-4)
 (colorfeeder-feed-letter sheet3)
 (down-movebottom-letter sheet3)
-(colorcontainer-fromime-letter sheet4)
-(up-moveup-letter sheet4)
-(colorcontainer-toime-letter sheet3)
-(colorprinter-simplex-letter sheet3 front image-3)
-(colorcontainer-fromime-letter sheet3)

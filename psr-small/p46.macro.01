@@ -4,8 +4,3 @@
 (close_sd1-condeff0-no-0 )
 (close_sd1-condeff1-no-0 )
 (close_sd1-endof-condeffs )
-(open-sd11 )
-(close_cb4 )
-(wait_cb4 )
-(wait_cb4-condeff0-no-0 )
-(wait_cb4-endof-condeffs )

@@ -6,8 +6,3 @@
 (board f6 p1)
 (board f6 p6)
 (up f6 f10)
-(depart f10 p6)
-(up f10 f14)
-(board f14 p10)
-(board f14 p9)
-(down f14 f4)

@@ -8,8 +8,3 @@
 (depart f24 p11)
 (up f24 f25)
 (board f25 p6)
-(down f25 f22)
-(board f22 p12)
-(depart f22 p6)
-(depart f22 p5)
-(down f22 f15)
