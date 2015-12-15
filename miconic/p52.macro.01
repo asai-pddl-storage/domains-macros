@@ -8,4 +8,3 @@
 (depart f13 p10)
 (up f13 f17)
 (board f17 p4)
-(depart f17 p9)

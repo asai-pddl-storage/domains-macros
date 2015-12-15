@@ -15,4 +15,3 @@
 (board f21 p3)
 (depart f21 p10)
 (down f21 f0)
-(depart f0 p3)

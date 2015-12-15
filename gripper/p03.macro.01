@@ -5,4 +5,3 @@
 (pick ball5 rooma left)
 (pick ball6 rooma right)
 (move rooma roomb)
-(drop ball5 roomb left)

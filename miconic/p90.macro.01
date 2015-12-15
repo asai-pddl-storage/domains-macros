@@ -16,4 +16,3 @@
 (board f27 p0)
 (down f27 f15)
 (depart f15 p15)
-(depart f15 p13)

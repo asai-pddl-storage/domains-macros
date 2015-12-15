@@ -3,4 +3,3 @@
 (move hoist0 depot0-2-2 depot0-2-3)
 (go-out hoist0 depot0-2-3 loadarea)
 (lift hoist0 crate0 container-0-0 loadarea container0)
-(go-in hoist0 loadarea depot0-2-3)

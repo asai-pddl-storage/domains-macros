@@ -19,4 +19,3 @@
 (up f21 f22)
 (board f22 p15)
 (up f22 f25)
-(depart f25 p7)

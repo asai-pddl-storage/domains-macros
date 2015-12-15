@@ -1,4 +1,3 @@
 (sendtohome-b h2 h n2 ha n1 n2 n3)
 (sendtohome h3 s2 h n3 h2 n2)
 (sendtohome-b s2 s n2 sa n1 n3 n4)
-(sendtohome s3 da s n3 s2 n2)

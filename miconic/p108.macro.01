@@ -21,4 +21,3 @@
 (board f38 p5)
 (depart f38 p12)
 (down f38 f23)
-(board f23 p14)

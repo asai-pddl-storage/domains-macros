@@ -4,4 +4,3 @@
 (board f2 p1)
 (board f2 p5)
 (down f2 f0)
-(depart f0 p1)

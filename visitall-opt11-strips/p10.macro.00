@@ -5,4 +5,3 @@
 (move loc-x5-y5 loc-x5-y4)
 (move loc-x5-y4 loc-x5-y3)
 (move loc-x5-y3 loc-x5-y2)
-(move loc-x5-y2 loc-x5-y1)

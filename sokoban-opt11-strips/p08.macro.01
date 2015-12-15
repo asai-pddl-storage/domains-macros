@@ -27,4 +27,3 @@
 (push-to-nongoal player-01 stone-02 pos-10-03 pos-09-03 pos-08-03 dir-left)
 (move player-01 pos-09-03 pos-09-04 dir-down)
 (move player-01 pos-09-04 pos-09-05 dir-down)
-(move player-01 pos-09-05 pos-08-05 dir-left)

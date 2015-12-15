@@ -18,4 +18,3 @@
 (depart f14 p2)
 (depart f14 p12)
 (down f14 f3)
-(board f3 p0)

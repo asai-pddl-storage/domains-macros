@@ -6,4 +6,3 @@
 (load p2 t0 l0)
 (drive t0 l0 l6 level196 level10 level206)
 (load p6 t0 l6)
-(unload p4 t0 l6)

@@ -2,4 +2,3 @@
 (park pr2)
 (get-right pr2 x2 y2 xrel0 x2 yrel0 y2 object0 x3)
 (gripper-up pr2 x2 y2 xrel0 x2 yrel0 yrel-1 y2 y1)
-(put-down pr2 x2 y2 xrel0 x2 yrel-1 y1 object0 y2)

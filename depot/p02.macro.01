@@ -2,4 +2,3 @@
 (load hoist2 crate1 truck1 distributor1)
 (unload hoist2 crate0 truck1 distributor1)
 (drive truck1 distributor1 depot0)
-(unload hoist0 crate2 truck1 depot0)

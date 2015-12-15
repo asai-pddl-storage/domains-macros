@@ -6,4 +6,3 @@
 (board f11 p3)
 (down f11 f2)
 (board f2 p1)
-(up f2 f14)

@@ -14,4 +14,3 @@
 (ship-order-o12 n1 n2)
 (ship-order-o16 n2 n3)
 (start-order o13 n3 n2)
-(start-order o4 n2 n1)

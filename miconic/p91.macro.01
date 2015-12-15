@@ -18,4 +18,3 @@
 (up f20 f31)
 (board f31 p11)
 (up f31 f33)
-(depart f33 p17)

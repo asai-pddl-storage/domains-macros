@@ -39,4 +39,3 @@
 (move player-01 pos-06-03 pos-06-02 dir-up)
 (move player-01 pos-06-02 pos-05-02 dir-left)
 (move player-01 pos-05-02 pos-04-02 dir-left)
-(move player-01 pos-04-02 pos-03-02 dir-left)

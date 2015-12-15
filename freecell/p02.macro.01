@@ -2,4 +2,3 @@
 (sendtohome spade3 heart2 spade n3 spade2 n2)
 (sendtofree heart2 hearta n2 n1)
 (sendtohome-b hearta heart n1 heart0 n0 n1 n2)
-(homefromfreecell heart2 heart n2 hearta n1 n1 n2)

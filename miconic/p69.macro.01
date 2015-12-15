@@ -11,4 +11,3 @@
 (board f23 p2)
 (down f23 f20)
 (board f20 p8)
-(depart f20 p2)

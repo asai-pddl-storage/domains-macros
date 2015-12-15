@@ -6,4 +6,3 @@
 (move-down-slow slow1-0 n7 n5)
 (board p1 slow1-0 n5 n1 n2)
 (move-down-slow slow1-0 n5 n4)
-(leave p1 slow1-0 n4 n2 n1)

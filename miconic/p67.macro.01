@@ -13,4 +13,3 @@
 (up f9 f20)
 (board f20 p5)
 (down f20 f4)
-(depart f4 p5)

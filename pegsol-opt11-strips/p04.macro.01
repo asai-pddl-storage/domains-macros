@@ -4,4 +4,3 @@
 (end-move pos-5-3)
 (jump-new-move pos-4-1 pos-4-2 pos-4-3)
 (jump-continue-move pos-4-3 pos-4-4 pos-4-5)
-(end-move pos-4-5)

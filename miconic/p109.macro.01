@@ -22,4 +22,3 @@
 (depart f30 p5)
 (up f30 f32)
 (board f32 p12)
-(board f32 p19)

@@ -28,4 +28,3 @@
 (depart f2 p17)
 (up f2 f24)
 (board f24 p21)
-(depart f24 p8)

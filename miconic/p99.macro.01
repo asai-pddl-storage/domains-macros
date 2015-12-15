@@ -18,4 +18,3 @@
 (depart f15 p0)
 (up f15 f30)
 (board f30 p9)
-(depart f30 p15)

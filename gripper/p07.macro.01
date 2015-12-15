@@ -13,4 +13,3 @@
 (drop ball3 roomb right)
 (move roomb rooma)
 (pick ball4 rooma left)
-(pick ball5 rooma right)

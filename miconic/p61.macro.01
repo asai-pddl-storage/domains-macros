@@ -12,4 +12,3 @@
 (depart f12 p2)
 (up f12 f17)
 (board f17 p6)
-(depart f17 p1)

@@ -2,4 +2,3 @@
 (board f1 p2)
 (up f1 f3)
 (board f3 p0)
-(down f3 f0)

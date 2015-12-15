@@ -110,4 +110,3 @@
 (move player-01 pos-10-04 pos-10-03 dir-up)
 (move player-01 pos-10-03 pos-09-03 dir-left)
 (move player-01 pos-09-03 pos-08-03 dir-left)
-(move player-01 pos-08-03 pos-07-03 dir-left)

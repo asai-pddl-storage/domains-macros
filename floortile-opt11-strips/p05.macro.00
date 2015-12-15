@@ -12,4 +12,3 @@
 (down robot1 tile_4-2 tile_3-2)
 (paint-up robot1 tile_4-2 tile_3-2 white)
 (down robot1 tile_3-2 tile_2-2)
-(left robot2 tile_3-3 tile_3-2)

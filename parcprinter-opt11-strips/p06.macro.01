@@ -12,4 +12,3 @@
 (colorprinter-simplex-letter sheet6 front image-6)
 (down-movetop-letter sheet4)
 (colorcontainer-fromime-letter sheet6)
-(up-moveup-letter sheet1)

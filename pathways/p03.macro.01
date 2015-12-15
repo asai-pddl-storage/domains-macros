@@ -3,4 +3,3 @@
 (initialize sp1)
 (synthesize sp1-gp cyca)
 (synthesize sp1-gp cycd)
-(synthesize sp1-gp p107)

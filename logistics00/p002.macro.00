@@ -4,4 +4,3 @@
 (unload-truck obj23 tru2 apt2)
 (unload-truck obj21 tru2 apt2)
 (load-truck obj13 tru1 pos1)
-(load-truck obj11 tru1 pos1)

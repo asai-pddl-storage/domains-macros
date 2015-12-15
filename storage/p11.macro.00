@@ -3,4 +3,3 @@
 (go-in hoist0 loadarea depot0-2-1)
 (move hoist0 depot0-2-1 depot0-1-1)
 (drop hoist0 crate0 depot0-1-2 depot0-1-1 depot0)
-(move hoist0 depot0-1-1 depot0-2-1)

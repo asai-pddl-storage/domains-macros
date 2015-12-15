@@ -20,4 +20,3 @@
 (depart f36 p8)
 (up f36 f37)
 (board f37 p18)
-(down f37 f16)

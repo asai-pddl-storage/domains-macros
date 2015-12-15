@@ -25,4 +25,3 @@
 (board f31 p0)
 (down f31 f7)
 (depart f7 p0)
-(up f7 f33)

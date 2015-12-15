@@ -19,4 +19,3 @@
 (board f20 p8)
 (down f20 f18)
 (depart f18 p8)
-(up f18 f21)

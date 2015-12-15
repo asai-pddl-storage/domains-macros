@@ -7,4 +7,3 @@
 (pick-up i)
 (stack i e)
 (unstack g b)
-(stack g i)

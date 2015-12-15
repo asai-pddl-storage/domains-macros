@@ -4,4 +4,3 @@
 (push-start s13 b9 a1 a3 b2 lco rat-a ta1-1-lco)
 (push-end s13 a1 a3 b8 b2 gasoleo ta3-1-gasoleo)
 (push-start s13 b6 a1 a3 b9 gasoleo lco ta1-1-gasoleo)
-(push-end s13 a1 a3 b2 b9 rat-a ta3-1-rat-a)

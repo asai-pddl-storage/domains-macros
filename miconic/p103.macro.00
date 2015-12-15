@@ -20,4 +20,3 @@
 (depart f21 p4)
 (up f21 f23)
 (depart f23 p5)
-(up f23 f25)

@@ -4,4 +4,3 @@
 (stack h c)
 (unstack a b)
 (stack a e)
-(unstack h c)

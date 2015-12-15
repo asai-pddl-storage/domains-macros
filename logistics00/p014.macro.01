@@ -7,4 +7,3 @@
 (fly-airplane apn1 apt2 apt3)
 (unload-airplane obj22 apn1 apt3)
 (unload-airplane obj11 apn1 apt3)
-(drive-truck tru3 pos3 apt3 cit3)

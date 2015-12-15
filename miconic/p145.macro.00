@@ -30,4 +30,3 @@
 (depart f24 p10)
 (up f24 f30)
 (board f30 p22)
-(depart f30 p8)

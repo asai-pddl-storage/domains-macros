@@ -3,4 +3,3 @@
 (unstack d h)
 (put-down d)
 (unstack h f)
-(stack h c)

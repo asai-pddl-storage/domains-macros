@@ -17,4 +17,3 @@
 (up f3 f19)
 (depart f19 p15)
 (down f19 f8)
-(board f8 p10)

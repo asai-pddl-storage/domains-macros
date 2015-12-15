@@ -3,4 +3,3 @@
 (move rooma roomb)
 (drop ball1 roomb left)
 (drop ball2 roomb right)
-(move roomb rooma)

@@ -21,4 +21,3 @@
 (board f24 p15)
 (board f24 p8)
 (down f24 f12)
-(depart f12 p15)

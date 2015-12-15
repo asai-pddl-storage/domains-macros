@@ -9,4 +9,3 @@
 (unstack l m)
 (stack l n)
 (pick-up e)
-(stack e l)

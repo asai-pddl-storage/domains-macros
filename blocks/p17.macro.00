@@ -7,4 +7,3 @@
 (unstack d c)
 (put-down d)
 (unstack c i)
-(put-down c)

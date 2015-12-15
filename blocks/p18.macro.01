@@ -6,4 +6,3 @@
 (unstack e d)
 (stack e b)
 (pick-up i)
-(stack i e)

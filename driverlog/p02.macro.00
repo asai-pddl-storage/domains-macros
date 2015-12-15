@@ -4,4 +4,3 @@
 (walk driver2 p0-1 s1)
 (board-truck driver2 truck2 s1)
 (load-truck package2 truck2 s1)
-(drive-truck truck2 s1 s2 driver2)

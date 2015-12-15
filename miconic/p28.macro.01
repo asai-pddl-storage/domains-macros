@@ -4,4 +4,3 @@
 (board f7 p0)
 (depart f7 p5)
 (depart f7 p3)
-(down f7 f0)

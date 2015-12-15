@@ -24,4 +24,3 @@
 (board f8 p22)
 (depart f8 p10)
 (up f8 f23)
-(depart f23 p21)

@@ -1,3 +1,2 @@
 (calibrate rover1 camera0 objective0 waypoint2)
 (navigate rover1 waypoint2 waypoint1)
-(take_image rover1 waypoint1 objective0 camera0 high_res)

@@ -8,4 +8,3 @@
 (up f0 f12)
 (board f12 p6)
 (down f12 f4)
-(depart f4 p6)

@@ -7,4 +7,3 @@
 (gripper-left pr2 x4 y4 xrel0 xrel-1 x4 x3 yrel0 y4)
 (put-right pr2 x4 y4 xrel-1 x3 yrel0 y4 object2 x4)
 (get-up pr2 x4 y4 xrel-1 x3 yrel0 y4 object1 y3)
-(gripper-up pr2 x4 y4 xrel-1 x3 yrel0 yrel-1 y4 y3)

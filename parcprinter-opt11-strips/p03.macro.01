@@ -3,4 +3,3 @@
 (lc2-mergeinvert-letter sheet1)
 (om-lowerout-letter sheet1)
 (sys-stack-letter sheet1 dummy-sheet)
-(lc1-divert-letter sheet2 back front)

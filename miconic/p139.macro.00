@@ -26,4 +26,3 @@
 (depart f23 p23)
 (down f23 f12)
 (depart f12 p20)
-(down f12 f6)

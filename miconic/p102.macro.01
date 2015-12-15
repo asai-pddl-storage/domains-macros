@@ -20,4 +20,3 @@
 (depart f38 p1)
 (down f38 f26)
 (depart f26 p15)
-(up f26 f32)

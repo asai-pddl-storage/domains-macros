@@ -9,4 +9,3 @@
 (unstack d e)
 (put-down d)
 (pick-up j)
-(stack j d)

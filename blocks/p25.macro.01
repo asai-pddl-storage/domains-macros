@@ -8,4 +8,3 @@
 (stack j e)
 (unstack b d)
 (put-down b)
-(unstack d i)

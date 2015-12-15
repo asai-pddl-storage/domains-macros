@@ -24,4 +24,3 @@
 (board f43 p2)
 (down f43 f6)
 (depart f6 p18)
-(up f6 f48)

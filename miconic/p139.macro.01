@@ -26,4 +26,3 @@
 (board f46 p9)
 (depart f46 p22)
 (down f46 f42)
-(depart f42 p13)

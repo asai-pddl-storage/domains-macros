@@ -6,4 +6,3 @@
 (move-up-slow slow0-0 n2 n4)
 (leave p1 slow0-0 n4 n2 n1)
 (leave p3 slow0-0 n4 n1 n0)
-(move-down-slow slow1-0 n6 n4)

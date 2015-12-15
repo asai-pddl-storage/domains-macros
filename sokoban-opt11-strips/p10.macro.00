@@ -6,4 +6,3 @@
 (move player-01 pos-2-5 pos-2-6 dir-down)
 (move player-01 pos-2-6 pos-2-7 dir-down)
 (move player-01 pos-2-7 pos-3-7 dir-right)
-(move player-01 pos-3-7 pos-4-7 dir-right)

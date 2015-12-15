@@ -23,4 +23,3 @@
 (board f25 p9)
 (down f25 f7)
 (board f7 p14)
-(depart f7 p9)

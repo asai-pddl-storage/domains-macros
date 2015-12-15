@@ -3,4 +3,3 @@
 (up f2 f7)
 (board f7 p1)
 (down f7 f5)
-(depart f5 p2)
