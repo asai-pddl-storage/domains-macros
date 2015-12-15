@@ -1,4 +1,0 @@
-(unstack d a)
-(put-down d)
-(unstack f e)
-(stack f d)
